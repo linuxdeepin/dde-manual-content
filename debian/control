@@ -1,0 +1,15 @@
+Source: dde-manual-content
+Section: admin
+Priority: optional
+Maintainer: uos <uos@uniontech.com>
+Build-Depends: cmake
+Standards-Version: 3.9.5
+Homepage: https://github.com/linuxdeepin/dde-manual-content
+#Vcs-Browser: https://salsa.debian.org/debian/dde-manual-content
+#Vcs-Git: https://salsa.debian.org/debian/dde-manual-content.git
+
+Package: dde-manual-content
+Architecture: any
+Depends: ${misc:Depends}
+Description: protocol files
+ Deepin protocol files
