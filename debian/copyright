@@ -1,12 +1,8 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: uos-manual-content
+Upstream-Name: dde-manual-content
 
 Files: *
-Copyright: 2020 Deepin Technology Co., Ltd.
-License: GPL-3.0+
-
-Files: debian/*
-Copyright: 2020 uos <uos@uniontech.com>
+Copyright: 2021 duanhongyu <duanhongyu@uniontech.com>
 License: GPL-3.0+
 
 License: GPL-3.0+
