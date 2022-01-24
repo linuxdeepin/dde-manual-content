@@ -1664,7 +1664,7 @@ You can either restore all settings or manually restore the previous backup data
 
 Boot menu is the grub menu for users to select an operating system to start. After selecting and confirming the boot option, your computer will load the system.
 
-> ![notes](../common/notes.svg) Notes: arm architecture does not support startup menu setting for now; mips architecture does not support modifying boot menu background for now.
+> ![notes](../common/notes.svg) Notes: arm architecture does not support startup menu setting for now; mips architecture does not support grub authentication or changing boot menu background picture for now.
 
 ##### Startup Delay
 
