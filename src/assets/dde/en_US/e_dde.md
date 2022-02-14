@@ -2,7 +2,7 @@
 
 ## Overview
 
-UnionTech OS(UnionTech operating system) is a beautiful, easy-to-use and reliable Linux desktop operating system. It is equipped with a series of original applications such as File Manager, System Monitor and etc, which not only offers you abundant entertainment experience but also meet your daily needs of learning and working. With continual improvement, UnionTech OS is becoming one of the most popular open-source operating systems in China.
+UnionTech OS (UnionTech operating system) is a beautiful, easy-to-use and reliable Linux desktop operating system. It is equipped with a series of original applications such as File Manager, System Monitor and etc, which not only offers you abundant entertainment experience but also meet your daily needs of learning and working. With continual improvement, UnionTech OS is becoming one of the most popular open-source operating systems in China.
 
 ![1|desk](fig/eu_desk.png)
 
@@ -109,7 +109,7 @@ All the texts, pictures and documents cut and copied by the current user after l
 
 3.  Select the target destination to paste it.
 
-4. Click![close](../common/close_normal.svg)to delete the current content and click **Clear All** to clear the clipboard.
+4. Click ![close](../common/close_normal.svg) to delete the current content and click **Clear All** to clear the clipboard.
 
    ![1|clipboard](fig/clipboard.png)
 
@@ -234,7 +234,7 @@ In the trash, click **Empty** to permanently delete all the files in the trash.
 
 ## Launcher
 
-Launcher ![launcher](../common/deepin-launcher.svg)  helps you manage all the installed applications, where you can quickly find an application by category navigation or by a search.
+Launcher ![launcher](../common/deepin-launcher.svg) helps you manage all the installed applications, where you can quickly find an application by category navigation or by a search.
 
 You can view newly installed applications in Launcher. The newly-installed ones are followed by a blue dot.
 
@@ -1169,7 +1169,7 @@ Authorization management is a pre-installed system tool to help you activate the
 
 1. There are two ways to run the authorization management tool:
 
-   - Click ![uos1](../common/uos1.svg)on the tray in the lower right corner to enter the interface.
+   - Click ![uos1](../common/uos1.svg) on the tray in the lower right corner to enter the interface.
 
    - Open the **Control Center** to select the **System Info** and click **About This PC** to view the edition authorization column. Click **Activate** to enter the interface.
 2. The inactive status includes being unactivated and being unactivated after expiration.
@@ -1177,7 +1177,7 @@ Authorization management is a pre-installed system tool to help you activate the
    - Unactivated after expiration: the system is not activated within expiration date, info in the interface includes name, edition, authorization status, authorization object and expiration date. 
 3. Choose the proper way to activate the system.
 
->![notes](../common/notes.svg) Notes: If the system is not activated, the authorization management icon ![uos1](../common/uos1.svg)will be docked on the tray in the lower right corner and displayed immediately upon startup.
+>![notes](../common/notes.svg) Notes: If the system is not activated, the authorization management icon ![uos1](../common/uos1.svg) will be docked on the tray in the lower right corner and displayed immediately upon startup.
 
 #### Activation Method
 
@@ -1194,7 +1194,7 @@ The on-line activation is available only when the network is connected normally.
 
 Under both online/offline mode, the system is activated automatically. There is only one chance of **Try Full Version** for each device and the valid period is 180 days calculated from the activation date. All the system functions are available in the trial period.
 
-1. Click  ![uos1](../common/uos1.svg)on the tray in the lower right corner to enter the interface.
+1. Click ![uos1](../common/uos1.svg) on the tray in the lower right corner to enter the interface.
 
    ![0|probation1](fig/e_probation1.png)
 
@@ -1208,7 +1208,7 @@ Under both online/offline mode, the system is activated automatically. There is 
 
 ###### Input Serial Number
 
-1. Click  ![uos1](../common/uos1.svg)on the tray in the lower right corner to enter the interface.
+1. Click ![uos1](../common/uos1.svg) on the tray in the lower right corner to enter the interface.
 2. Click **Input Serial Number** to input the correct activation code and click **Activate Now**.
 
 ![0|activationcode1](fig/p_activationcode1.png)
@@ -1219,7 +1219,7 @@ Under both online/offline mode, the system is activated automatically. There is 
 
 ###### Import License File
 
-1. Click  ![uos1](../common/uos1.svg)on the tray in the lower right corner to enter the interface.
+1. Click ![uos1](../common/uos1.svg) on the tray in the lower right corner to enter the interface.
    
 2. Click **Import License File**, select the correct license file in .key format in the File Manager and click **Activate Now**.  
    
@@ -1284,7 +1284,7 @@ The activation failure interface will pop up if the activation file has been use
 
 #### Server Activation Setting
 
-If the current server crashes, it is available to customize a new activation server by clicking the **Settings** in the main menu ![menu](../common/icon_menu.svg)of the authorization management tool.
+If the current server crashes, it is available to customize a new activation server by clicking the **Settings** in the main menu ![menu](../common/icon_menu.svg) of the authorization management tool.
 
 ### Backup and Restore
 
@@ -1352,7 +1352,7 @@ You can either restore all settings or manually restore the previous backup data
 
 Boot menu is the grub menu for users to select an operating system to start. After selecting and confirming the boot option, your computer will load the system.
 
-> ![notes](../common/notes.svg)Notes: arm architecture does not support startup menu setting for now; mips architecture does not support grub authentication or changing boot menu background picture for now.
+> ![notes](../common/notes.svg) Notes: arm architecture does not support startup menu setting for now; mips architecture does not support grub authentication or changing boot menu background picture for now.
 
 ##### Startup Delay
 

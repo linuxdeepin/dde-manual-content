@@ -116,7 +116,7 @@ All the texts, pictures and documents cut and copied by the current user after l
 
 3.  Select the target destination to paste it.
 
-4. Click![close](../common/close_normal.svg)to delete the current content and click **Clear All** to clear the clipboard.
+4. Click ![close](../common/close_normal.svg) to delete the current content and click **Clear All** to clear the clipboard.
 
    ![1|clipboard](fig/clipboard.png)
 
@@ -263,7 +263,7 @@ In the trash, click **Empty** to permanently delete all the files in the trash.
 
 ## Launcher
 
-Launcher ![launcher](../common/deepin-launcher.svg)  helps you manage all the installed applications, where you can quickly find an application by category navigation or by a search.
+Launcher ![launcher](../common/deepin-launcher.svg) helps you manage all the installed applications, where you can quickly find an application by category navigation or by a search.
 
 You can view newly installed applications in Launcher. The newly-installed ones are followed by a blue dot.
 
@@ -330,7 +330,7 @@ In Launcher, right-click the icon and you can:
    - Select **Remove from desktop** to delete the shortcut from the desktop.
    - Select **Remove from dock** to remove the application icon from Dock.
 
-> ![notes](../common/notes.svg)Notes: The above operations only delete the shortcut rather than uninstall the applications.
+> ![notes](../common/notes.svg) Notes: The above operations only delete the shortcut rather than uninstall the applications.
 
 ### Install Applications
 

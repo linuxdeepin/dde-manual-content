@@ -2,7 +2,7 @@
 
 ## Overview
 
-UnionTech OS(UnionTech operating system) is a beautiful, easy-to-use and reliable Linux desktop operating system. It is equipped with a series of original applications such as File Manager, App Store, System Monitor, and etc, which not only offers you abundant entertainment experience but also meet your daily needs of learning and working. With continual improvement, UnionTech OS is becoming one of the most popular open-source operating systems in China.
+UnionTech OS (UnionTech operating system) is a beautiful, easy-to-use and reliable Linux desktop operating system. It is equipped with a series of original applications such as File Manager, App Store, System Monitor, and etc, which not only offers you abundant entertainment experience but also meet your daily needs of learning and working. With continual improvement, UnionTech OS is becoming one of the most popular open-source operating systems in China.
 
 ![1|desk](fig/p_desk.png)
 
@@ -71,7 +71,7 @@ Sort the files on your desktop to make it organized and fit your needs.
 1. Right-click the desktop.
 2. Click **Icon size**, and choose a proper size.
 
->![tips](../common/tips.svg) Tips: Press **Ctrl** + ![=](../common/=.svg)/![-](../common/-.svg) /scrolling mouse wheel to adjust icon size on the desktop and in Launcher.
+>![tips](../common/tips.svg) Tips: Press **Ctrl** + ![=](../common/=.svg)/![-](../common/-.svg) / scrolling mouse wheel to adjust icon size on the desktop and in Launcher.
 
 ### Set Display
 
@@ -119,7 +119,7 @@ All the texts, pictures and documents cut and copied by the current user after l
 
 3.  Select the target destination to paste it.
 
-4. Click![close](../common/close_normal.svg)to delete the current content and click **Clear All** to clear the clipboard.
+4. Click ![close](../common/close_normal.svg) to delete the current content and click **Clear All** to clear the clipboard.
 
    ![1|clipboard](fig/clipboard.png)
 
@@ -152,7 +152,7 @@ In the Dock, there are icons of Launcher, applications, system tray, and plugins
 | ![controlcenter](../common/controlcenter.svg) |   Control Center - click to check or change system settings.   |
 | ![notification](../common/notification.svg) | Notification Center - show all notifications from the system and applications. |
 | ![desktop-ai-assistant](../common/desktop-ai-assistant.svg) | Desktop AI Assistant - click to issue instructions or make inquiries with voice or texts. |
-| ![search](../common/search-dark.svg) | Global search - search or find any content. |
+| ![search](../common/search-dark.svg) | Grand search - search or find any content. |
 | ![onboard](../common/onboard.svg) | Onboard virtual keyboard. |
 | ![shutdown](../common/system-shutdown.svg) | Click to enter the shutdown interface. |
 | ![trash](../common/trash_icon.svg) | Trash. |
@@ -320,7 +320,7 @@ In the trash, click **Empty** to permanently delete all the files in the trash.
 
 ## Launcher
 
-Launcher ![launcher](../common/deepin-launcher.svg)  helps you manage all the installed applications, where you can quickly find an application by category navigation or by a search.
+Launcher ![launcher](../common/deepin-launcher.svg) helps you manage all the installed applications, where you can quickly find an application by category navigation or by a search.
 
 You can view newly installed applications in Launcher. The newly-installed ones are followed by a blue dot.
 
@@ -678,7 +678,7 @@ Refer to [Single Screen Settings](#Single Screen Settings) for how to set bright
 
 If your computer has a touch screen, you can set your screen and adjust it.
 
-1. On the homepage of Control Center, click ![display_normal](../common/touchScreen.svg)to set your screen.
+1. On the homepage of Control Center, click ![display_normal](../common/touchScreen.svg) to set your screen.
 3. Click **Confirm**. 
 
 ### Default Applications
@@ -1477,11 +1477,11 @@ The inactive status includes "unactivated" and "unactivated after expiration".
 
 There are two ways to run the authorization management tool when the system has not been activated before:
 
-   - Click ![uos1](../common/authorize1.svg)on the tray in the lower right corner to enter the interface.
+   - Click ![uos1](../common/authorize1.svg) on the tray in the lower right corner to enter the interface.
 
    - Open the **Control Center** to select the **System Info** and click **About This PC** to view the edition authorization column. Click **Activate** to enter the interface.
 
->![notes](../common/notes.svg) Notes: If the system is not activated, the authorization management icon ![uos1](../common/authorize1.svg)will be always displayed on the tray in the lower right corner.
+>![notes](../common/notes.svg) Notes: If the system is not activated, the authorization management icon ![uos1](../common/authorize1.svg) will be always displayed on the tray in the lower right corner.
 
 #### Activation Method
 
@@ -1516,7 +1516,7 @@ It is available to view the information such as status, expiration date and so o
 
 1. Click ![uos1](../common/authorize1.svg) on the tray in the lower right corner to enter the interface.
 2. Click **Input Serial Number** to input the correct activation code and click **Activate Now**.
-   >![notes](../common/notes.svg)Notes: UnionTech OS supports both 16-digit and 25-digit serial numbers. 
+   >![notes](../common/notes.svg) Notes: UnionTech OS supports both 16-digit and 25-digit serial numbers. 
 
    ![0|activationcode1](fig/p_activationcode1.png)
 
@@ -1526,7 +1526,7 @@ It is available to view the information such as status, expiration date and so o
 
 ###### Import License File
 
-1. Click ![uos1](../common/authorize1.svg)on the tray in the lower right corner to enter the interface.
+1. Click ![uos1](../common/authorize1.svg) on the tray in the lower right corner to enter the interface.
 2. Click **Import License File**, select the correct license file in .key format in the File Manager and click **Activate Now**.  
 3. Click **Confirm** in the secondary confirming dialogue box and pops up the activation success interface.
 
@@ -1561,7 +1561,7 @@ After the system is activated successfully, the authorization management icon wi
 The activation success interface shows the information such as product name, version, and so on. You can click **View Details** to view more information. 
 
 The major information shown includes:
-   - Product Name:  operation system name
+   - Product Name: operation system name
    - Version: operation system version
    - Activation Status: including unactivated, expired and unactivated, and activated.
    - Authorization Status: including unauthorized, expired and authorized. 
@@ -1596,7 +1596,7 @@ The activation failure interface will pop up if the activation file has been use
 
 #### Server Activation Setting
 
-If the current server crashes, it is available to customize a new activation server by clicking the **Settings** in the main menu ![menu](../common/icon_menu.svg)of the authorization management tool.
+If the current server crashes, it is available to customize a new activation server by clicking the **Settings** in the main menu ![menu](../common/icon_menu.svg) of the authorization management tool.
 
 ### Backup and Restore
 
@@ -1717,6 +1717,8 @@ User Experience Program collects your hardware, application and system informati
 3. Switch on **Domain Management** and set **Domain Address** and **Port**.
 4. Click **Confirm**.
 
+> ![notes](../common/notes.svg) Notes: Both amd and arm architecture supports settings of domain management.
+
 ## Window Manager
 
 Window Manager can display different window contents in different workspaces. With the Window Manager, you can use multiple desktops at the same time to manage desktop windows in groups.
@@ -1768,7 +1770,7 @@ After deleting a workspace, all windows in the workspace will be moved to a near
 After finishing the operations on the workspace interface, you can quit in the following ways:
 
    - Press **Esc**.
-   - Click the blank area outside the workspace interface.
+   - Click the blank area outside the current workspace interface.
    - Press **Super** + **S** again.
 
 ### View All Windows
@@ -1816,10 +1818,28 @@ On the desktop, press and hold **Alt** and press ![~](../common/~.svg) continual
 
 With split screen, multiple applications and tasks are displayed simultaneously, which  improves your work and learning efficiency by not only making full use of the space of the large screen, but also reducing frequent switching between multiple application windows.
 
+#### Enter split screen
+
 1. Drag the window to the left or right part of the screen until the cursor touches the screen edge and the white transparent background appears, drop the window and it will be adsorbed on the left or right half of the screen.
 
+> ![notes](../common/notes.svg) Notes: When the application supports split screen, hover the cursor over the max / restore button in the window and select ![split_screen](../common/split_left_hover.svg) or ![split_screen](../common/split_right_hover.svg) from the pop-up menu to enter the split screen.
+
+2. In the screen of which the other half is unoccupied, a preview of all other windows will appear. Click one of them to display it on the this half of the screen to realize split screen browsing. You can also drag other windows to both sides of the screen to add windows on split screen.
 
 >![tips](../common/tips.svg) Tips: To cancel split screen, just drag a window away from the screen edge.
 
+In split screen under multiple display mode, the system supports matching split screen windows on the same screen. On the opposite, it does not support cross screen matching of split screen windows.
 
+#### Adjust window positions
+
+When browsing on split screen, once the center of the moving window crosses the center line of the split screen area, the other window will automatically switch to the position of the moving window on the split screen. Release the moving window, and it will fill the vacant position on the split screen.
+
+#### Adjust window sizes
+
+When browsing on split screen, move the cursor to the connection between the two windows in the middle of the screen and drag left and right to modify the width of both windows at the same time.
+
+#### Exit split screen
+
+- Drag any window away from the connection between the windows.
+- Click max or close button of any current window, it will exit split screen, and the remaining windows stay in split screen.
 
