@@ -563,8 +563,6 @@ If you don't have a Union ID yet, you can sign up on the official website (curre
 
 By logging in your Union ID, you can use cloud services such as cloud synchronization, App Store, Mail, browser and others.
 
-When logging in for the first time, the window of **Privacy Policy** will pop up. If users need to open cloud services and other functions, you can check **I have read and agree to the Privacy Policy**, and click **Confirm**.
-
 Cloud synchronization can automatically synchronize various system configurations to the cloud, such as network, sound, mouse, update, dock, launcher, wallpaper, theme, power supply, etc. To sync the settings from the cloud to another computer, just sign in with the same Union ID on that computer.
 
 >![notes](../common/notes.svg) Notes: 
@@ -803,7 +801,7 @@ Wired network is secure and stable, which makes it the most common way to connec
 3. On the homepage of Control Center, click ![network_normal](../common/network_normal.svg).
 4. Click **Wired Network** to enter the setting page of wired network.
 5. Switch on **Wired Network Adapter** to enable wired network.
-6. If it is successfully connected to the network, there will be a prompt "Wired Connection connected".
+6. If it is successfully connected to the network, there will be a prompt "Wired Connection connected" on the top of desktop.
 
 You can also edit and add a new wired network in the setting page.
 
@@ -1664,7 +1662,7 @@ You can either restore all settings or manually restore the previous backup data
 
 Boot menu is the grub menu for users to select an operating system to start. After selecting and confirming the boot option, your computer will load the system.
 
-> ![notes](../common/notes.svg) Notes: arm architecture does not support startup menu setting for now; mips architecture does not support grub authentication or changing boot menu background picture for now.
+> ![notes](../common/notes.svg) Notes: arm architecture only supports grub authentication; mips architecture does not support grub authentication or changing boot menu background picture for now.
 
 ##### Startup Delay
 
