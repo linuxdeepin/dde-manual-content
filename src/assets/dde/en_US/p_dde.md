@@ -12,7 +12,7 @@ When you log into the system for the first time, a welcome program will automati
 
 ![0|welcome](fig/p_welcome.png)
 
-Once login, you are experiencing UnionTech OS Desktop Environment, which is comprised of Desktop, Dock, Launcher, Control Center, and window manager. 
+Once login, you are experiencing UnionTech OS Desktop Environment, which is comprised of Desktop, Dock, Launcher, Control Center, and window manager.
 
 
 
@@ -22,7 +22,7 @@ Desktop is the main screen you see after logging in. On the desktop, you can cre
 
 ![0|contextmenu](fig/contextmenu.png)
 
->![notes](../common/notes.svg) Notes: On the touchpad, move with four/five fingers downwards to display desktop, and move upwards immediately to hide which corresponds to the operation of **Super** + **D**. 
+>![notes](../common/notes.svg) Notes: On the touchpad, move with four/five fingers downwards to display desktop, and move upwards immediately to hide which corresponds to the operation of **Super** + **D**.
 
 ### Create New Folder/Document
 
@@ -46,10 +46,10 @@ Right-click a file or folder on the desktop, and use the features of File Manage
 | Virus Scan  | Scan a file or folder for any virus.                                                   |
 | Properties       | View the basic info, share it or change the permission.      |
 
->![notes](../common/notes.svg) Notes: 
+>![notes](../common/notes.svg) Notes:
 >   - If you are using a computer equipped with a touchscreen, long press for 1 second and release on the touchscreen.
->   - On the touchpad, click with two fingers to display the right-click menu. 
->   - Press **Alt** + **M** on the keyboard to open right-click menu. 
+>   - On the touchpad, click with two fingers to display the right-click menu.
+>   - Press **Alt** + **M** on the keyboard to open right-click menu.
 
 ### Sort Files
 
@@ -93,8 +93,8 @@ Select some elegant and fashionable wallpapers to beautify your desktop and make
 
 ![1|wallpaper](fig/p_wallpaper.png)
 
->![tips](../common/tips.svg) Tips: 
->    - Check **Wallpaper Slideshow**, and set the time interval to change wallpaper automatically, or set to change the wallpaper in the process of login or wakeup. 
+>![tips](../common/tips.svg) Tips:
+>    - Check **Wallpaper Slideshow**, and set the time interval to change wallpaper automatically, or set to change the wallpaper in the process of login or wakeup.
 >    - You can also set your favorite picture as wallpaper in an image viewer.
 
 ### Set Screensaver
@@ -131,7 +131,7 @@ Dock is at the bottom of the desktop by default to help you quickly open frequen
 
 >![notes](../common/notes.svg) Notes: in the **Personalization >  Dock** screen in Control Center, the mode, location, status of Dock can also be set.
 
-### Icons on Dock 
+### Icons on Dock
 
 In the Dock, there are icons of Launcher, applications, system tray, and plugins.
 
@@ -188,7 +188,7 @@ Drag the top edge to increase or decrease the height.
 
 ### Show/Hide Dock
 
-You can hide the Dock in order to maximize the expansion of the desktop operating area. 
+You can hide the Dock in order to maximize the expansion of the desktop operating area.
 
 1. Right-click the Dock and select **Status**.
 2. On the submenu, you can select:
@@ -196,11 +196,11 @@ You can hide the Dock in order to maximize the expansion of the desktop operatin
    - **Keep Hidden** - hide Dock and display it only when hovering on the dock area.
    - **Smart Hide** -  hide Dock automatically if the dock area is used.
 
->![notes](../common/notes.svg) Notes: If you are using a computer equipped with a touchscreen, when the Dock is set as "Keep Hidden" or "Smart Hide": 
+>![notes](../common/notes.svg) Notes: If you are using a computer equipped with a touchscreen, when the Dock is set as "Keep Hidden" or "Smart Hide":
 >
 >- if the Dock is at the bottom, slide in upward from the bottom edge of the screen to call it out;
->- if the Dock is on the top, slide in downward from the upper edge of the screen to call it out; 
->- if the Dock is on the left side, slide in from the left edge of the screen towards the right to call it out;  
+>- if the Dock is on the top, slide in downward from the upper edge of the screen to call it out;
+>- if the Dock is on the left side, slide in from the left edge of the screen towards the right to call it out;
 >- if the Dock is on the right side, slide in from the right edge of the screen towards the left to call it out.
 
 ### Show/Hide Plugins
@@ -239,7 +239,7 @@ You can input words and voice as follows：
 2. Connect the recording devices and  talk to Desktop AI Assistant directly, such as  "change the wallpaper", "adjust the screen brightness", and "what's the weather".
 3. It is also available to input text instructions after the input box appears.
 
-![ai1](fig/ai1.png) 
+![ai1](fig/ai1.png)
 
 ![ai2](fig/ai2.png)
 
@@ -247,13 +247,13 @@ You can input words and voice as follows：
 
 #### Set up Speech to Text
 
-Speech to Text is set in Assistive Tools in Control Center.  It is enabled by default and can be disabled as needed. 
+Speech to Text is set in Assistive Tools in Control Center.  It is enabled by default and can be disabled as needed.
 
-Select the input box, invoke the Speech to Text function via the shortcut keys **Ctrl** + **Alt** + **O** and start dictating the input voice. 
+Select the input box, invoke the Speech to Text function via the shortcut keys **Ctrl** + **Alt** + **O** and start dictating the input voice.
 
 #### Set up Text to Speech
 
-Text to Speech is set by default in Assistive Tools in Control Center. Only when it is enabled, Text to Speech function can be available. 
+Text to Speech is set by default in Assistive Tools in Control Center. Only when it is enabled, Text to Speech function can be available.
 
 Text to Speech is only available for the currently-selected texts and the operation steps are as follows:
 
@@ -264,7 +264,7 @@ Text to Speech is only available for the currently-selected texts and the operat
 
 #### Set up Translation
 
-Translation is set by default (enabled) in Assistive Tools in Control Center. Only when it is enabled, the Translation function can be available. 
+Translation is set by default (enabled) in Assistive Tools in Control Center. Only when it is enabled, the Translation function can be available.
 
 Translation is only available for the currently-selected texts and the operation steps are as follows:
 
@@ -378,7 +378,7 @@ Delete a shortcut from the desktop directly, or remove it from Dock or Launcher.
 
 **Remove the shortcut from Dock:**
 
-   - Hold down the left key of mouse, drag and drop the icon away from Dock. 
+   - Hold down the left key of mouse, drag and drop the icon away from Dock.
    - You cannot drag and drop the application icon while it is running. Then you can right-click the application icon in Dock and select **Undock** to remove it from Dock.
 
 **Remove the shortcut from Launcher:**
@@ -420,11 +420,11 @@ Uninstall the applications you no longer use to save disk space.
 
 You can manage the system settings in Control Center, including account management, network settings, date and time, personalization, display settings, system and application update, etc. After entering the desktop environment, click ![controlcenter](../common/controlcenter.svg) to open Control Center.
 
->![notes](../common/notes.svg) Notes: On the touchpad, slide with two fingers from the right edge of the touchpad to the left to display Control Center; slide with two fingers from the left edge of the touchpad to the right to hide Control Center. 
+>![notes](../common/notes.svg) Notes: On the touchpad, slide with two fingers from the right edge of the touchpad to the left to display Control Center; slide with two fingers from the left edge of the touchpad to the right to hide Control Center.
 
 ### Homepage Introduction
 
-The homepage of Control Center provides several setting modules and click one to enter the detailed settings. 
+The homepage of Control Center provides several setting modules and click one to enter the detailed settings.
 
 ![0|dcchomepage](fig/p_dcc.png)
 
@@ -440,7 +440,7 @@ The title bar contains the back button, search box, main menu and the window but
    - Search box: Input a keyword and search the related settings.
    - Main menu: Click ![menu](../common/icon_menu.svg) to enter the main menu where you can set the window theme, view the manual and exit.
 
-### Biometric Authentication
+### Biometric Authentication|authentication
 
 Biometric authentication, also known as biometric identification, is the use of physiological or behavioral characteristics inherent in the human body through a computer for personal identification. Commonly used biometric authentication include fingerprint recognition, face recognition and iris recognition.
 
@@ -457,14 +457,14 @@ Fingerprints are the uneven lines on the skin at the front of the finger. Genera
 1. On the homepage of Control Center, click ![biometric_authentication](../common/biometric_auth.svg).
 2. Click **Fingerprint**. And then click **Add Fingerprint** in the fingerprint password area.
 4. Enter your password in the pop-up authentication dialogue box and then put your finger on a fingerprint reader to enroll your fingerprint.
-5. Click **Done** after the fingerprint is added successfully. 
+5. Click **Done** after the fingerprint is added successfully.
 
->![notes](../common/notes.svg) Notes: You can add multiple fingerprint passwords for one account, and delete one by one as well. 
+>![notes](../common/notes.svg) Notes: You can add multiple fingerprint passwords for one account, and delete one by one as well.
 
 #### Set up Face recognition
 
-1. On the homepage of Control Center, click ![biometric_authentication](../common/biometric_auth.svg). 
-2. Click **Face**, and in the "Manage Faces" area, click **Add Face**. 
+1. On the homepage of Control Center, click ![biometric_authentication](../common/biometric_auth.svg).
+2. Click **Face**, and in the "Manage Faces" area, click **Add Face**.
 3. In the Add Face Data dialog box that pops up, check "I have read and agree to the Disclaimer", and click **Next**.
 4. Click "Agree and Start Face Enrolling" and click **Next** to enroll the face data using the face recognition device.
 5. Click **Done**.
@@ -473,11 +473,11 @@ Fingerprints are the uneven lines on the skin at the front of the finger. Genera
 
 #### Set up Iris Password
 
-1. On the homepage of Control Center, click ![biometric_authentication](../common/biometric_auth.svg). 
+1. On the homepage of Control Center, click ![biometric_authentication](../common/biometric_auth.svg).
 2. Click **Iris** and in the "Manage Irises" area, click **Add Iris**.
 3. Enter the login password in the authentication dialog box.
-4. In the Disclaimer window, check "I have read and agree to the Disclaimer", and click **Next**. 
-5. Click "Agree and start iris enrolling" and click **Next** to enroll iris data using the iris device. 
+4. In the Disclaimer window, check "I have read and agree to the Disclaimer", and click **Next**.
+5. Click "Agree and start iris enrolling" and click **Next** to enroll iris data using the iris device.
 6. Click **Done**.
 
 
@@ -523,18 +523,18 @@ If "Auto Login" is enabled, you can log into the system directly, without inputt
 
 1. On the homepage of Control Center, click ![account_normal](../common/account_normal.svg).
 2. Click the current account.
-3. Switch on **Auto Login**. Input the password of the current account and confirm in the pop-up authorization window. 
+3. Switch on **Auto Login**. Input the password of the current account and confirm in the pop-up authorization window.
 
 
 #### Login Without Password
 
-If "Login Without Password" is enabled, you only need to click ![login](../common/login.svg) to log into the system without inputting a password. 
+If "Login Without Password" is enabled, you only need to click ![login](../common/login.svg) to log into the system without inputting a password.
 
 1. On the homepage of Control Center, click ![account_normal](../common/account_normal.svg).
 2. Click the current account.
 3. Switch on **Login Without Password**. Input the password of the current account and confirm in the pop-up authorization window. Then you can log into the system without password.
 
->![tips](../common/tips.svg) Tips: 
+>![tips](../common/tips.svg) Tips:
 >   - If both **Auto Login** and **Login Without Password** are enabled, once reboot or start, your computer will enter the desktop directly without requiring a password.
 >   - "Empty keyring password" is checked by default, which means you don't have to input login password again for the applications of which the password is remembered under "Login Without Password" mode. Otherwise, you will have to input password whenever you run the application.
 
@@ -542,11 +542,11 @@ If "Login Without Password" is enabled, you only need to click ![login](../commo
 
 1. On the homepage of Control Center, click ![account_normal](../common/account_normal.svg).
 2. Click the current account.
-3. Set the validity period of the password. You can set a particular number or select "Always". 
+3. Set the validity period of the password. You can set a particular number or select "Always".
 
->![notes](../common/notes.svg) Notes: the validity period starts to take effect from the day you modify the password.   
+>![notes](../common/notes.svg) Notes: the validity period starts to take effect from the day you modify the password.
 
-For example, you modify the password on September 1st, and set the validity period as 30 days. Then the new password could be normally used from September 1st to September 30th. 
+For example, you modify the password on September 1st, and set the validity period as 30 days. Then the new password could be normally used from September 1st to September 30th.
 
 #### Delete Account
 
@@ -565,9 +565,9 @@ By logging in your Union ID, you can use cloud services such as cloud synchroniz
 
 Cloud synchronization can automatically synchronize various system configurations to the cloud, such as network, sound, mouse, update, dock, launcher, wallpaper, theme, power supply, etc. To sync the settings from the cloud to another computer, just sign in with the same Union ID on that computer.
 
->![notes](../common/notes.svg) Notes: 
+>![notes](../common/notes.svg) Notes:
 > a. "Auto Sync" is only available when the system is activated or in trial period.
-> 
+>
 > b. When "Auto Sync" is enabled, you can check the options you want; when it is disabled, all settings will not be synced.
 
 ![0|sync](fig/p_sync.png)
@@ -597,7 +597,7 @@ When there is only one screen, you can adjust the brightness, resolution, refres
 2. In "Color Temperature" area, you can:
 
    - Switch on **Night Shift**, the screen hue will be auto-adjusted according to your location.
-   - Switch on **Change Color Temperature** is switched on, you can adjust the monitor brightness as you wish. 
+   - Switch on **Change Color Temperature** is switched on, you can adjust the monitor brightness as you wish.
 
 >![notes](../common/notes.svg) Notes: When **Night Shift** is switched on, **Change Color Temperature** becomes unavailable automatically, and vice versa.
 
@@ -609,7 +609,7 @@ Set a proper display scale to have a normal display.
 2. Click **Display Scaling**.
 3. Change the display scaling, log out and log in again to see the changes.
 
->![notes](../common/notes.svg) Notes: 
+>![notes](../common/notes.svg) Notes:
 >   - When a HiDPI screen is detected, the display scaling will be automatically adjusted.
 >   -  For the applications that do not support scaling, right-click it in Launcher and select **Disable display scaling** to get a better display.
 
@@ -659,16 +659,16 @@ In extend mode, click **Gather Windows** to gather all setting windows to the ce
 >![notes](../common/notes.svg) Notes: in extend mode, "multiple displays" is displayed in right-click menu of the Dock, including "only on main screen" and "on screen where the cursor is", which are mutually exclusive.
 
 
-In multiple displays, press **Super** + **P** to show its OSD. 
+In multiple displays, press **Super** + **P** to show its OSD.
 
 Operations are as follows:
 
-1. Hold **Super** and press **P** or click to select the options. 
+1. Hold **Super** and press **P** or click to select the options.
 2. Release the keys, the selected mode will take into effect.
 
 >![notes](../common/notes.svg) Notes: In multiple display mode, the sub-screens also support desktop icon display, right-click menu operation and other functions.
 
-Refer to [Single Screen Settings](#Single Screen Settings) for how to set brightness, color temperature, scaling, resolution, refreshing rate, direction and so on for multiple screens. 
+Refer to [Single Screen Settings](#Single Screen Settings) for how to set brightness, color temperature, scaling, resolution, refreshing rate, direction and so on for multiple screens.
 
 
 
@@ -677,7 +677,7 @@ Refer to [Single Screen Settings](#Single Screen Settings) for how to set bright
 If your computer has a touch screen, you can set your screen and adjust it.
 
 1. On the homepage of Control Center, click ![display_normal](../common/touchScreen.svg) to set your screen.
-3. Click **Confirm**. 
+3. Click **Confirm**.
 
 ### Default Applications
 
@@ -702,7 +702,7 @@ If you have installed several applications with similar functions, such as text 
 1. On the homepage of Control Center, click ![default_applications_normal](../common/default_applications_normal.svg).
 2. Select a file type.
 3. Click ![add](../common/add.svg) below to add a desktop file (usually at /usr/share/applications) or a specified binary file as the Default Applications.
-4. The application will be added to the list and set as Default Applications automatically. 
+4. The application will be added to the list and set as Default Applications automatically.
 
 #### Delete Default Applications
 
@@ -745,7 +745,7 @@ Enable window effect to make the desktop and the windows more beautiful and deli
 2. Click **General**.
 3. Switch on **Window Effect**.
 
->![notes](../common/notes.svg) Notes: You can set **Window Minimize Effect** as **Scale** or **Magic Lamp**. 
+>![notes](../common/notes.svg) Notes: You can set **Window Minimize Effect** as **Scale** or **Magic Lamp**.
 
 #### Adjust Transparency
 
@@ -786,7 +786,7 @@ The mode, location, status of Dock can also be set in **Personalization > Dock**
 
 ### Network Settings
 
-After login, you need to connect to a network first and then surf the Internet! 
+After login, you need to connect to a network first and then surf the Internet!
 
 >![tips](../common/tips.svg) Tips: Check your network status by clicking the network icon in Dock.
 
@@ -794,7 +794,7 @@ After login, you need to connect to a network first and then surf the Internet!
 
 #### Wired Network
 
-Wired network is secure and stable, which makes it the most common way to connect to the Internet. After your router is set, connect both ends of the network cable to the computer and router to connect to a wired network. 
+Wired network is secure and stable, which makes it the most common way to connect to the Internet. After your router is set, connect both ends of the network cable to the computer and router to connect to a wired network.
 
 1. Plug the cable into the network slot of a computer.
 2. Plug another end of the cable into the router or network port.
@@ -837,7 +837,7 @@ Hotspot changes the connected network signal to WLAN hotspot, so that other devi
 1. On the homepage of Control Center, click ![network_normal](../common/network_normal.svg).
 2. Click **Personal Hotspot**.
 3. Switch on **Hotspot** and do the settings.
-4. Click **Save**. 
+4. Click **Save**.
 
 
 #### Mobile Network
@@ -869,7 +869,7 @@ VPN is a virtual private network. Its main function is to establish a private ne
 2. Click **VPN**, and click ![add](../common/add.svg) or ![import](../common/import.svg).
 3. Select the VPN protocol type, and enter the name, gateway, username, password and other information. (Importing VPN will automatically fill in information)
 4. Click **Save**,  the system will try to connect VPN network automatically.
-5. You can export the VPN settings to backup or share with other users. 
+5. You can export the VPN settings to backup or share with other users.
 
 >![notes](../common/notes.svg) Notes: If you don't want to use the VPN as the default routing, but only want it to take effect on specific network resources, switch on **Only applied in corresponding resources**.
 
@@ -880,7 +880,7 @@ VPN is a virtual private network. Its main function is to establish a private ne
 3. Switch on **System Proxy**. For **Proxy Type**, you can:
    - Select **Manual** and input the address and port of proxy servers.
    - Select **Auto** and input a URL to configure the proxy info.
-4. Click **Save**. 
+4. Click **Save**.
 
 
 #### Application Proxy
@@ -894,7 +894,7 @@ VPN is a virtual private network. Its main function is to establish a private ne
 
 #### Network Info
 
-You can view MAC, IP address, gateway and other network info in network details. 
+You can view MAC, IP address, gateway and other network info in network details.
 
 1. On the homepage of Control Center, click ![network_normal](../common/network_normal.svg).
 2. Click **Network Details**.
@@ -917,7 +917,7 @@ You can set "Do Not Disturb" to system notifications and whether to show icon on
 2. Click **System Notification**.
 
    - Switch on/off **Do Not Disturb**.
-   After switching on this button, you can set the starting and ending time; also, you can check **When the screen is locked**. Under this mode, all notification are muted, but you can view all notifications in Notification Center. 
+   After switching on this button, you can set the starting and ending time; also, you can check **When the screen is locked**. Under this mode, all notification are muted, but you can view all notifications in Notification Center.
    - Switch on/off **Show icon on Dock**.
 
 #### App Notification Settings
@@ -953,10 +953,10 @@ Set your speaker and microphone properly to make you hear more comfortable and m
 2. Click **Input** to:
 
    - Adjust input volume by dragging the slider.
-   - You can enable **Automatic Noise Suppression**. 
+   - You can enable **Automatic Noise Suppression**.
    - Select input device type from the drop-down list after **Input Device**.
 
->![tips](../common/tips.svg) Tips: Usually, you need to turn up the input volume to make sure that you can hear the sound of the sound source, but the volume should not be too high, because it will cause distortion of the sound. Here is how to set input volume: Speak to your microphone at a normal volume and view "Input Level". If the indicator changes obviously according to the volume, then the input volume is at a proper level. 
+>![tips](../common/tips.svg) Tips: Usually, you need to turn up the input volume to make sure that you can hear the sound of the sound source, but the volume should not be too high, because it will cause distortion of the sound. Here is how to set input volume: Speak to your microphone at a normal volume and view "Input Level". If the indicator changes obviously according to the volume, then the input volume is at a proper level.
 
 #### System Sound Effects
 
@@ -976,7 +976,7 @@ Bluetooth helps you make a short-distance wireless communication between Bluetoo
 
 ![0|bluetooth](fig/p_bluetooth.png)
 
->![notes](../common/notes.svg) Notes: When the laptop is equipped with Bluetooth, you can directly turn on the Bluetooth switch; when the desktop computer is not equipped with Bluetooth, you can buy a Bluetooth adapter, plug it into the USB port of your computer, and then use Bluetooth. 
+>![notes](../common/notes.svg) Notes: When the laptop is equipped with Bluetooth, you can directly turn on the Bluetooth switch; when the desktop computer is not equipped with Bluetooth, you can buy a Bluetooth adapter, plug it into the USB port of your computer, and then use Bluetooth.
 
 #### Change Bluetooth Name
 
@@ -989,7 +989,7 @@ Bluetooth helps you make a short-distance wireless communication between Bluetoo
 
 1. On the homepage of Control Center, click ![bluetooth_normal](../common/bluetooth_normal.svg).
 2. Switch on **Bluetooth**. The system will scan the nearby devices automatically and list them in **Other Devices**.
-3. Click the device you want to connect, and input the PIN code if required. After pairing successfully, the device will be connected automatically. 
+3. Click the device you want to connect, and input the PIN code if required. After pairing successfully, the device will be connected automatically.
 4. After that, the Bluetooth device will be added to **My Device** list.
 5. In "My Device" list, click the device, you can **Disconnect** the device, or change its name.
 
@@ -1005,8 +1005,8 @@ Usage scenario: sender (UnionTech OS PC) transfers files via Bluetooth to receiv
 
 1. On the homepage of Control Center, click ![bluetooth_normal](../common/bluetooth_normal.svg).
 2. Switch on **Bluetooth**. The system will scan Bluetooth devices nearby automatically.
-3. Select a paired and connected Bluetooth device in "My Devices". Click **Send Files** (this button will only appear on PC / mobile phone / tablet Bluetooth devices). Select a file to be sent from the popped-up File Manager interface, click **Open**.  
-4. Select the Bluetooth device to receive the files in the pop-up "Bluetooth file transfer" window and click **Send** to send a request. 
+3. Select a paired and connected Bluetooth device in "My Devices". Click **Send Files** (this button will only appear on PC / mobile phone / tablet Bluetooth devices). Select a file to be sent from the popped-up File Manager interface, click **Open**.
+4. Select the Bluetooth device to receive the files in the pop-up "Bluetooth file transfer" window and click **Send** to send a request.
 
 **Transfer files from Bluetooth of a mobile phone**
 
@@ -1024,7 +1024,7 @@ When the sender sends a file, a prompt window pops up in the receiver's device, 
    - If the receiver is in the following situation, part of the file transfer fails, which will be displayed in the transmission failure list.
       - The file transfer request is refused by the receiver, then the transfer terminates, and "File Transfer Failed" window pops up.
       - The receiver times out or the transferring distance is beyond transmission range, and "File Transfer Failed" window pops up(Bluetooth device connection failed).
-      - The receiver does not operate for 1 minute, then the transfer terminates by default,  and "File Transfer Failed" window pops up. 
+      - The receiver does not operate for 1 minute, then the transfer terminates by default,  and "File Transfer Failed" window pops up.
 
 ### Date and Time
 
@@ -1109,7 +1109,7 @@ To reduce the power consumption of your laptop, set your power saving mode.
 2. Click **General**.
 3. Switch on **Password is required to wake up the monitor** and **Password is required to wake up the computer** in **Wakeup Settings** area to improve the security.
 
-#### Battery 
+#### Battery
 
 1. On the homepage of Control Center, click ![power_normal](../common/power_normal.svg).
 2. Click **General**.
@@ -1132,7 +1132,7 @@ To reduce the power consumption of your laptop, set your power saving mode.
 2. Click **Plugged In** and **On Battery**.
 3. Set the time to suspend by dragging the slider in "Computer will suspend after" area.
 
->![tips](../common/tips.svg) Tips: For laptop users, you can select **Suspend** from the drop-down list after **When the lid is closed**.  
+>![tips](../common/tips.svg) Tips: For laptop users, you can select **Suspend** from the drop-down list after **When the lid is closed**.
 
 #### Time to Lock Screen
 
@@ -1144,7 +1144,7 @@ To reduce the power consumption of your laptop, set your power saving mode.
 
 1. On the homepage of Control Center, click ![power_normal](../common/power_normal.svg).
 2. Click **Plugged In** and **On Battery**.
-3. You can select **Suspend**, **Hibernate**, **Turn off the monitor** and **Do nothing** from the drop-down list after **When the lid is closed**.  
+3. You can select **Suspend**, **Hibernate**, **Turn off the monitor** and **Do nothing** from the drop-down list after **When the lid is closed**.
 
 >![notes](../common/notes.svg) Notes: This function is only available for laptops.
 
@@ -1154,7 +1154,7 @@ To reduce the power consumption of your laptop, set your power saving mode.
 2. Click **Plugged In** and **On Battery**.
 3. You can select **Shut down, Suspend, Hibernate, Turn off the monitor, Do nothing** from the drop-down list after **When pressing the power button**.
 
-Any operation done here will take effect immediately. At the same time, the system will notify the user that the power button setting is changed. 
+Any operation done here will take effect immediately. At the same time, the system will notify the user that the power button setting is changed.
 
 #### Set "Low Battery Notification"
 
@@ -1190,7 +1190,7 @@ Mouse and touchpad are common computer input devices. Using the mouse, you can m
 
 #### Mouse
 
-After inserting or connecting the mouse, make relevant settings in the Control Center to make it more in line with your usage habits. 
+After inserting or connecting the mouse, make relevant settings in the Control Center to make it more in line with your usage habits.
 
 >![notes](../common/notes.svg) Notes: If there is no touchpad, “Disable touchpad when a mouse is connected” will not be shown.
 
@@ -1199,16 +1199,16 @@ After inserting or connecting the mouse, make relevant settings in the Control C
 3. Adjust **Pointer Speed**, which helps you to control the speed at which the pointer moves as the mouse moves.
 4. Switch on **Natural Scrolling**/**Mouse Acceleration** if you want.
 
->![notes](../common/notes.svg) Notes: 
+>![notes](../common/notes.svg) Notes:
 >   - Turn on the mouse acceleration to improve the accuracy of the pointer. The moving distance of the mouse pointer on the screen will increase according to the acceleration of the moving speed. It can be turned on or off according to the usage.
->   - If Natural Scrolling is enabled, when you scroll down, the page will scroll down, when you scroll up, the page will scroll up as well. 
+>   - If Natural Scrolling is enabled, when you scroll down, the page will scroll down, when you scroll up, the page will scroll up as well.
 
 
 #### Touchpad
 
 ![0|touchpad](fig/p_touchpad.png)
 
-If you are using a laptop,  in order to avoid mis-operation on the touchpad, you can switch on **Disable touchpad while typing** in **Mouse > General** interface, and switch on **Disable touchpad when a mouse is connected** in **Mouse > Mouse** interface.  
+If you are using a laptop,  in order to avoid mis-operation on the touchpad, you can switch on **Disable touchpad while typing** in **Mouse > General** interface, and switch on **Disable touchpad when a mouse is connected** in **Mouse > Mouse** interface.
 
 You can also change **Pointer Speed**, and switch on **Natural Scrolling** for the touchpad.
 
@@ -1222,7 +1222,7 @@ TrackPoint, also called pointing stick, is a small joystick used as a pointing d
 
 ### Drawing Tablet
 
-Drawing tablet, also called graphics tablet and pen tablet, is a computer input device that enables a user to hand draw images, animations and graphics with a special pen-like stylus. 
+Drawing tablet, also called graphics tablet and pen tablet, is a computer input device that enables a user to hand draw images, animations and graphics with a special pen-like stylus.
 
 After connecting to the computer, you can set the pressure sensing force of the drawing tablet, that is, the pressure sensing value of the pen tip and eraser.
 
@@ -1252,7 +1252,7 @@ Set keyboard properties and select your keyboard layout to keep your typing habi
 
 Set the keyboard layout to customize the keyboard for the current language. When you press a key on the keyboard, the keyboard layout controls which characters are displayed on the screen. After changing the keyboard layout, the characters on the screen may not match the characters on the keyboard keys.
 
-You have set a keyboard layout during system installation, but you can add more for other purposes. 
+You have set a keyboard layout during system installation, but you can add more for other purposes.
 
 ![layout](fig/p_layout.png)
 
@@ -1373,7 +1373,7 @@ Desktop AI Assistant, Speech to Text, Text to Speech and Translation are availab
 
 #### Desktop AI Assistant
 
-Desktop AI Assistant  boosts your productivity by executing voice commands, such as checking the whether, creating events, etc. 
+Desktop AI Assistant  boosts your productivity by executing voice commands, such as checking the whether, creating events, etc.
 
    - Switch on/off **Voice Wakeup**: when you switch on **Voice Wakeup**, you can check **OneShot** to enable wakeup order + semantic order, for example, "Hello, Xiaohua. What's the weather in Beijing?".
    - **Language**: Chinese-Mandarin, English
@@ -1398,7 +1398,7 @@ Desktop AI Assistant  boosts your productivity by executing voice commands, such
 
 ### Update Settings
 
-When there are system updates, it will be notified on the home page of Control Center. Click ![update](../common/update.svg) to enter "Updates" page. Click **Check for Updates**. After checking is done, you can download and install system and application updates. You can also set to download the updates automatically. 
+When there are system updates, it will be notified on the home page of Control Center. Click ![update](../common/update.svg) to enter "Updates" page. Click **Check for Updates**. After checking is done, you can download and install system and application updates. You can also set to download the updates automatically.
 
 >![tips](../common/tips.svg) Tips: If you do not want to get the updates prompt, switch off "Updates Notification" in Update Settings.
 
@@ -1413,7 +1413,7 @@ When there are system updates, it will be notified on the home page of Control C
 3. Click **Download and install updates**, the system starts to download and install updates automatically.
 4. After updating finishes, a prompt message saying "update successful" appears. You can choose to reboot, shut down or cancel the operations according to actual needs.
 
->![notes](../common/notes.svg) Notes: You can click the button to pause and resume the downloading process. 
+>![notes](../common/notes.svg) Notes: You can click the button to pause and resume the downloading process.
 
 #### Auto Download Updates
 
@@ -1422,7 +1422,7 @@ When there are system updates, it will be notified on the home page of Control C
 3. Switch on **Auto Download Updates**.
 4. When there are system updates, they will be automatically downloaded.
 
->![tips](../common/tips.svg) Tips:  Switch on **Auto Clear Package Cache** to remove the downloaded package caches regularly. 
+>![tips](../common/tips.svg) Tips:  Switch on **Auto Clear Package Cache** to remove the downloaded package caches regularly.
 
 #### Set up "Updates from Repositories"
 
@@ -1462,7 +1462,7 @@ You can view system version, authorization info, hardware info, and the agreemen
 
 ### Authorization Management|License activator
 
-Authorization management is a self-developed tool to help you activate the system.  
+Authorization management is a self-developed tool to help you activate the system.
 
 Here mainly introduces the unactivated interface, activation method, activation success and activation failure interfaces.
 
@@ -1471,7 +1471,7 @@ Here mainly introduces the unactivated interface, activation method, activation 
 The inactive status includes "unactivated" and "unactivated after expiration".
 
    - Unactivated: info in the interface includes name, edition, and authorization status.
-   - Unactivated after expiration: the system is not activated within expiration date, info in the interface includes name, edition, authorization status, authorization object and expiration date. 
+   - Unactivated after expiration: the system is not activated within expiration date, info in the interface includes name, edition, authorization status, authorization object and expiration date.
 
 There are two ways to run the authorization management tool when the system has not been activated before:
 
@@ -1485,7 +1485,7 @@ There are two ways to run the authorization management tool when the system has 
 
 The activation methods of authorization management can be divided into online activation and offline activation, while the online activation methods include "Try Full Version", "Input Serial Number" and "Import License File".
 
->![attention](../common/attention.svg) Attention: Only systems in the trial period or the ones activated successfully can all the functions of UnionTech OS be used normally, otherwise some functions will be limited. 
+>![attention](../common/attention.svg) Attention: Only systems in the trial period or the ones activated successfully can all the functions of UnionTech OS be used normally, otherwise some functions will be limited.
 
 
 ##### On-line Activation
@@ -1514,7 +1514,7 @@ It is available to view the information such as status, expiration date and so o
 
 1. Click ![uos1](../common/authorize1.svg) on the tray in the lower right corner to enter the interface.
 2. Click **Input Serial Number** to input the correct activation code and click **Activate Now**.
-   >![notes](../common/notes.svg) Notes: UnionTech OS supports both 16-digit and 25-digit serial numbers. 
+   >![notes](../common/notes.svg) Notes: UnionTech OS supports both 16-digit and 25-digit serial numbers.
 
    ![0|activationcode1](fig/p_activationcode1.png)
 
@@ -1525,14 +1525,14 @@ It is available to view the information such as status, expiration date and so o
 ###### Import License File
 
 1. Click ![uos1](../common/authorize1.svg) on the tray in the lower right corner to enter the interface.
-2. Click **Import License File**, select the correct license file in .key format in the File Manager and click **Activate Now**.  
+2. Click **Import License File**, select the correct license file in .key format in the File Manager and click **Activate Now**.
 3. Click **Confirm** in the secondary confirming dialogue box and pops up the activation success interface.
 
 ![0|license_file](fig/license_file.png)
 
 ##### Off-line Activation
 
-The off-line activation can be adopted when the network connection is abnormal.    
+The off-line activation can be adopted when the network connection is abnormal.
 
 1. It will jump to the off-line activation interface when abnormal network connection is detected by the system in the process of activating the system by inputing the serial number or importing the license file.
 
@@ -1540,13 +1540,13 @@ The off-line activation can be adopted when the network connection is abnormal.
 
 2. Scan the QR code with your mobile phone  and the current device ID as well as activation code are displayed in the pop-up activation interface.
 
-   ![0|activateoffline2](fig/activate_offline2.png) 
+   ![0|activateoffline2](fig/activate_offline2.png)
 
-3. Click **Activate Now** and click **Confirm** in the pop-up confirmation dialogue. 
+3. Click **Activate Now** and click **Confirm** in the pop-up confirmation dialogue.
 
 4. The device ID, activation code and off-line activation code are displayed in the activation success interface.
 
-   ![0|activateoffline3](fig/activate_offline3.png) 
+   ![0|activateoffline3](fig/activate_offline3.png)
 
 5. Input manually in the input box in PC the off-line activation code in the your mobile phone.
 
@@ -1554,15 +1554,15 @@ The off-line activation can be adopted when the network connection is abnormal.
 
 #### Activation Success
 
-After the system is activated successfully, the authorization management icon will not be shown in the Dock. You can check the relevant information from "Control Center > System Info > About This PC". 
+After the system is activated successfully, the authorization management icon will not be shown in the Dock. You can check the relevant information from "Control Center > System Info > About This PC".
 
-The activation success interface shows the information such as product name, version, and so on. You can click **View Details** to view more information. 
+The activation success interface shows the information such as product name, version, and so on. You can click **View Details** to view more information.
 
 The major information shown includes:
    - Product Name: operation system name
    - Version: operation system version
    - Activation Status: including unactivated, expired and unactivated, and activated.
-   - Authorization Status: including unauthorized, expired and authorized. 
+   - Authorization Status: including unauthorized, expired and authorized.
    - Activation Method: it displays your actual activation method.
    - Expiration Date: From the 10th day to expiration date, the system will remind you that the authorization is about to expire.
 
@@ -1646,7 +1646,7 @@ You can either restore all settings or manually restore the previous backup data
 1. On the homepage of Control Center, click ![system_info_normal](../common/system_info_normal.svg).
 2. Click **Backup and Restore** > **Restore** to select:
    - Restore to factory settings
-      1. You can choose to check **Keep personal files and apps** and click **Restore Now**. Click **Confirm** in the dialogue box pops up. 
+      1. You can choose to check **Keep personal files and apps** and click **Restore Now**. Click **Confirm** in the dialogue box pops up.
       2. Please input the password to authorize the data restoring.
    - Restore from backup files
       1. After selecting restoring directory, click ![three_dots](fig/three_dots.png) to select the files you want to restore.
@@ -1721,11 +1721,11 @@ User Experience Program collects your hardware, application and system informati
 
 Window Manager can display different window contents in different workspaces. With the Window Manager, you can use multiple desktops at the same time to manage desktop windows in groups.
 
->![notes](../common/notes.svg) Notes: this function is available only when **Window Effect** is turned on in **Control Center**>**Personalization** >**General** . 
+>![notes](../common/notes.svg) Notes: this function is available only when **Window Effect** is turned on in **Control Center**>**Personalization** >**General** .
 
 ![1|workspace](fig/p_workspace.png)
 
->![notes](../common/notes.svg) Notes: On the touchpad, move with four/five fingers upwards to display multi-task view, and move downwards immediately to hide multi-task view, which corresponds to the operation of **Super** + **S**. 
+>![notes](../common/notes.svg) Notes: On the touchpad, move with four/five fingers upwards to display multi-task view, and move downwards immediately to hide multi-task view, which corresponds to the operation of **Super** + **S**.
 
 ### Open Workspace
 
@@ -1742,7 +1742,7 @@ On the workspace interface, you can add workspace in the following ways:
    - Click **+** above workspace.
    - Press **Alt** + **+** on the keyboard.
 
->![notes](../common/notes.svg) Notes: When the workspace number has reached its limit **4**, you cannot add more workspaces. 
+>![notes](../common/notes.svg) Notes: When the workspace number has reached its limit **4**, you cannot add more workspaces.
 
 ### Switch Workspace
 
@@ -1753,7 +1753,7 @@ On the workspace interface and desktop, you can switch workspace in the followin
    - On the workspace interface, scroll up or down to switch to Previous/Next workspace.
    - On the workspace interface, click the preview window or press the numeric keys (1-4) to switch to a specified workspace.
 
->![notes](../common/notes.svg) Notes: On the touchpad, move with four/five fingers to the left/right to switch to the previous or next workspace, which corresponds to the operation of **Super** + **Left** or **Super** + **Right**. 
+>![notes](../common/notes.svg) Notes: On the touchpad, move with four/five fingers to the left/right to switch to the previous or next workspace, which corresponds to the operation of **Super** + **Left** or **Super** + **Right**.
 
 ### Delete Workspace
 
@@ -1805,7 +1805,7 @@ On the desktop, press  **Alt** + **Shift** + ![~](../common/~.svg) at the same t
 
 #### Switch among All Windows
 
-On the desktop, press and hold **Alt** and press **Tab** continually and it will show the right windows one by one; 
+On the desktop, press and hold **Alt** and press **Tab** continually and it will show the right windows one by one;
 On the desktop, press and hold **Alt** + **Shift** and press **Tab** continually and it will show the left windows one by one.
 
 #### Switch among Windows of the Same Type
