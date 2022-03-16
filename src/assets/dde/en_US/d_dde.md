@@ -12,7 +12,7 @@ When you log into the system for the first time, a welcome program will automati
 
 ![0|welcome](fig/d_welcome.png)
 
-Once login, you are ready to experience deepin Desktop Environment. It is comprised of Desktop, Dock, Launcher, Control Center and Window Manager, which serve as the basis for your system.
+Once login, you are ready to experience deepin Desktop Environment. It is comprised of Desktop, Dock, Launcher, Control Center and Window Manager, which serves as the basis for your system.
 
 ## Desktop
 
@@ -124,9 +124,9 @@ All the texts, pictures and documents cut and copied by the current user after l
 
 ## Dock
 
-Dock is at the bottom of the desktop by default to help you quickly open frequently-used applications, which includes Launcher, applications, system tray, and plugins. In the dock, you can open launcher, show the desktop, enter the workspaces, open and exit apps, set input methods, adjust the volume, connect to a wireless network, view the calendar and enter the shutdown interface, and so on.
+Dock is at the bottom of the desktop by default to help you quickly open frequently-used applications, which includes Launcher, applications, system tray, and plugins. In the dock, you can open launcher, show the desktop, enter the workspaces, open and exit applications, set input methods, adjust the volume, connect to a wireless network, view the calendar and enter the shutdown interface, and so on.
 
->![notes](../common/notes.svg) Notes: in the **Personalization >  Dock** screen in Control Center, the mode, location, status of Dock can also be set.
+>![notes](../common/notes.svg) Notes: in the **Personalization >  Dock** screen in Control Center, the mode, location, status of Dock and so on can also be set.
 
 ### Icons on Dock 
 
@@ -383,6 +383,48 @@ The title bar contains the back button, search box, main menu and the window but
 - Search box: Input a keyword and search the related settings.
 - Main menu: Click ![menu](../common/icon_menu.svg) to enter the main menu where you can set the window theme, view the manual and exit.
 
+### Biometric Authentication|authentication
+
+Biometric authentication, also known as biometric identification, is the use of physiological or behavioral characteristics inherent in the human body through a computer for personal identification. Commonly used biometric authentication include fingerprint recognition, face recognition and iris recognition.
+
+When a hardware with biometric authentication is connected, fingerprint, face, and iris information can be enrolled in the system and used to log in to the system, unlock the screen, and authorize special operations, as well as enhance user experience, improve system usage efficiency, and increase system security.
+
+> ![notes](../common/notes.svg) Notes:  fingerprint, face, iris password settings are supported only when hardware with biometric authentication is connected to the computer.
+
+![2|biometric_authen](fig/d_biometric_authen.png)
+
+#### Set Fingerprint Password
+
+Fingerprints are the uneven lines on the skin at the front of the finger. Generally speaking, each person's fingerprint is different and can be set as a password.
+
+1. On the homepage of Control Center, click ![biometric_authentication](../common/biometric_auth.svg).
+2. Click **Fingerprint**. And then click **Add Fingerprint** in the fingerprint password area.
+4. Enter your password in the pop-up authentication dialogue box and then put your finger on a fingerprint reader to enroll your fingerprint.
+5. Click **Done** after the fingerprint is added successfully. 
+
+>![notes](../common/notes.svg) Notes: You can add multiple fingerprint passwords for one account, and delete one by one as well. 
+
+#### Set up Face recognition
+
+1. On the homepage of Control Center, click ![biometric_authentication](../common/biometric_auth.svg). 
+2. Click **Face**, and in the "Manage Faces" area, click **Add Face**. 
+3. In the Add Face Data dialog box that pops up, check "I have read and agree to the Disclaimer", and click **Next**.
+4. Click "Agree and Start Face Enrolling" and click **Next** to enroll the face data using the face recognition device.
+5. Click **Done**.
+
+> ![notes](../common/notes.svg) Notes: A maximum of 5 faces can be enrolled into one account.
+
+#### Set up Iris Password
+
+1. On the homepage of Control Center, click ![biometric_authentication](../common/biometric_auth.svg). 
+2. Click **Iris** and in the "Manage Irises" area, click **Add Iris**.
+3. Enter the login password in the authentication dialog box.
+4. In the Disclaimer window, check "I have read and agree to the Disclaimer", and click **Next**. 
+5. Click "Agree and start iris enrolling" and click **Next** to enroll iris data using the iris device. 
+6. Click **Done**.
+
+
+
 ### Accounts
 
 You have already created an account when installing the system. Here you can modify account settings or create a new one.
@@ -442,18 +484,6 @@ If "Login Without Password" is enabled, you only need to click ![login](../commo
 >   - If both **Auto Login** and **Login Without Password** are enabled, once reboot or start, your computer will enter the desktop directly without requiring a password.
 >   - "Empty keyring password" is checked by default, which means you don't have to input login password again for the applications of which the password is remembered under "Login Without Password" mode. Otherwise, you will have to input password whenever you run the application.
 
-#### Set Fingerprint Password
-
-Fingerprint password is used in system login, application authorization, and other scenarios. Scan your fingerprint when user password is required.
-
-1. On the homepage of Control Center, click ![account_normal](../common/account_normal.svg).
-2. Click the current account.
-3. Click **Add Fingerprint**.
-4. Put your finger on a fingerprint reader and follow the instructions repeatedly until your fingerprint is added successfully.
-5. Click **Done**. 
-
-> ![notes](../common/notes.svg) Notes: You can add multiple fingerprint passwords for one account, and delete one by one as well. 
-
 #### Set password validity period
 
 1. On the homepage of Control Center, click ![account_normal](../common/account_normal.svg).
@@ -476,8 +506,6 @@ For example, you modify the password on September 1st, and set the validity peri
 ### Deepin ID
 
 By logging in your Deepin ID, you can use cloud services such as cloud synchronization, App Store, Mail, browser and others.
-
- When logging in for the first time, the window of **Privacy Policy** will pop up. If users need to open cloud services and other functions, you can check **I have read and agree to the Privacy Policy**, and click **Confirm**.
 
 Cloud synchronization can automatically synchronize various system configurations to the cloud, such as network, sound, mouse, update, dock, launcher, wallpaper, theme, power supply, etc. To sync the settings from the cloud to another computer, just sign in with the same Deepin ID on that computer.
 
@@ -936,7 +964,7 @@ When the sender sends a file, a prompt window pops up in the receiver's device, 
    - If the receiver is in the following situation, part of the file transfer fails, which will be displayed in the transmission failure list.
       + The file transfer request is refused by the receiver, then the transfer terminates, and "File Transfer Failed" window pops up.
       + The receiver times out or the transferring distance is beyond transmission range, and "File Transfer Failed" window pops up(Bluetooth device connection failed).
-      + The receiver does not operate for 1 minute, then the transfer terminates by default,  and "File Transfer Failed" window pops up. 
+      + The receiver does not operate for one minute, then the transfer terminates by default,  and "File Transfer Failed" window pops up. 
 
 ### Date and Time
 
@@ -1305,7 +1333,7 @@ When there are system updates, it will be notified on the home page of Control C
 3. Switch on **Auto Download Updates**.
 4. When there are system updates, they will be automatically downloaded.
 
-> ![tips](../common/tips.svg) Tips:  Switch on **Auto Clear Package Cache** to remove the downloaded package caches regularly. 
+> ![tips](../common/tips.svg) Tips:  Switch on **Clear Package Cache** to remove the downloaded package caches regularly. 
 
 #### Set up "Updates from Repositories"
 
@@ -1362,8 +1390,8 @@ You can backup data through either **Full Backup** or **System Backup** from Con
 
 2. Select **Backup and Restore** > **Backup** to set the backup type and save the path of files backed up.
    - Backup Type: Full Backup and System Backup
-      + Full Backup: to back up system files and user files of the whole disk
-      + System Backup: When the user data is not reserved, the files of the root partition and the boot partition are backed up; when the user data is reserved, the files of the root partition, boot partition, opt partition and home partition are backed up.
+      + Full Backup: to back up system files and user files of the whole disk.
+      + System Backup: to back up root partition and boot partition.
    - Saving Method: New Backup and System Incremental Backup
      
    
@@ -1453,14 +1481,14 @@ On the workspace interface, you can add workspace in the following ways:
 - Click **+** above workspace.
 - Press **Alt** + **+** on the keyboard.
 
-> ![notes](../common/notes.svg) Notes: When the workspace number has reached its limit (4), you cannot add more workspaces. 
+> ![notes](../common/notes.svg) Notes: When the workspace number has reached its limit (four), you cannot add more workspaces. 
 
 ### Switch Workspace
 
 On the workspace interface and desktop, you can switch workspace in the following ways:
 
 - On the desktop, press  **Super**+ ![Left](../common/Left.svg) / ![Right](../common/Right.svg) to switch to Previous/Next workspace.
-- On the desktop, press  **Super** + Numeric keys (1-4)  to switch to a specified workspace.
+- On the desktop, press  **Super** + Numeric keys (one to four)  to switch to a specified workspace.
 - On the workspace interface, scroll up or down to switch to Previous/Next workspace.
 - On the workspace interface, click the preview window or press the numeric keys (1-4) to switch to a specified workspace.
 
@@ -1528,10 +1556,32 @@ Switch desktop windows in the current workspace as below.
 
 With split screen, multiple applications and tasks are displayed simultaneously, which  improves your work and learning efficiency by not only making full use of the space of the large screen, but also reducing frequent switching between multiple application windows.
 
+#### Enter split screen
+
 1. Drag the window to the left or right part of the screen until the cursor touches the screen edge and the white transparent background appears, drop the window and it will be adsorbed on the left or right half of the screen.
 
+> ![notes](../common/notes.svg) Notes: When the application supports split screen, hover the cursor over the max / restore button in the window and select ![split_screen](../common/split_left_hover.svg) or ![split_screen](../common/split_right_hover.svg) from the pop-up menu to enter the split screen.
 
-> ![tips](../common/tips.svg) Tips: To cancel split screen, just drag a window away from the screen edge.
+2. In the screen of which the other half is unoccupied, a preview of all other windows will appear. Click one of them to display it on the this half of the screen to realize split screen browsing. You can also drag other windows to both sides of the screen to add windows on split screen.
+
+>![tips](../common/tips.svg) Tips: To cancel split screen, just drag a window away from the screen edge.
+
+In split screen under multiple display mode, the system supports matching split screen windows on the same screen. On the opposite, it does not support cross screen matching of split screen windows.
+
+#### Adjust window positions
+
+When browsing on split screen, once the center of the moving window crosses the center line of the split screen area, the other window will automatically switch to the position of the moving window on the split screen. Release the moving window, and it will fill the vacant position on the split screen.
+
+#### Adjust window sizes
+
+When browsing on split screen, move the cursor to the connection between the two windows in the middle of the screen and drag left and right to modify the width of both windows at the same time.
+
+#### Exit split screen
+
+- Drag any window away from the connection between the windows.
+- Click max or close button of any current window, it will exit split screen, and the remaining windows stay in split screen.
+
+
 
 
 
