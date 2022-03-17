@@ -110,6 +110,8 @@ The screensaver was used to protect the kinescope before, but now it is mainly f
 
 All the texts, pictures and documents cut and copied by the current user after login are displayed in the clipboard, which can be copied quickly by double-clicking the clipboard. The clipboard is cleared automatically after logout and shutdown.
 
+On the clipboard, you can drag and drop original images and file-like information directly to the desktop for saving, or drag and drop text, characters, and other information into editable text.
+
 1. Use the shortcuts **Ctrl**+**Alt**+ **V** to wake up the clipboard.
 
 2. Double-click in the clipboard to copy the current content quickly and the corresponding block will be moved to the top of the clipboard.
@@ -322,7 +324,7 @@ Delete a shortcut from the desktop directly, or remove it from Dock or Launcher.
 **Remove the shortcut from Dock:**
 
    - Hold down the left key of mouse, drag and drop the icon away from Dock. 
-   - You cannot drag and drop the application icon while it is running. Then you can right-click the application icon in Dock and select **Undock** to remove it from Dock.
+   - Right-click the application icon in Dock and select **Undock** to remove it from Dock.
 
 **Remove the shortcut from Launcher:**
 
@@ -356,7 +358,7 @@ Uninstall the applications you no longer use to save disk space.
 1. In Launcher, right-click the application icon.
 2. Click **Uninstall**.
 
-> ![tips](../common/tips.svg) Tips: In **Fashion mode**, drag the application icon in Launcher fullscreen mode to ![trash](../common/trash_icon.svg) in the Dock to uninstall the application.
+> ![notes](../common/notes.svg) Notes: some system applications can't be uninstalled.
 
 
 ## Control Center
@@ -389,7 +391,7 @@ Biometric authentication, also known as biometric identification, is the use of 
 
 When a hardware with biometric authentication is connected, fingerprint, face, and iris information can be enrolled in the system and used to log in to the system, unlock the screen, and authorize special operations, as well as enhance user experience, improve system usage efficiency, and increase system security.
 
-> ![notes](../common/notes.svg) Notes:  fingerprint, face, iris password settings are supported only when hardware with biometric authentication is connected to the computer.
+> ![notes](../common/notes.svg) Notes:  this module is supported only when hardware with biometric authentication is connected to the computer, and then you can set up fingerprint, face, and iris password. 
 
 ![2|biometric_authen](fig/d_biometric_authen.png)
 
@@ -552,6 +554,9 @@ Set a proper display scale to have a normal display.
 >   - When a HiDPI screen is detected, the display scaling will be automatically adjusted.
 >   -  For the applications that do not support scaling, right-click it in Launcher and select **Disable display scaling** to get a better display.
 
+##### 
+
+
 ##### Change Resolution
 
 1. On the homepage of Control Center, click ![display_normal](../common/display_normal.svg).
@@ -559,6 +564,8 @@ Set a proper display scale to have a normal display.
 3. Click **Save**.
 
 ##### Set up Desktop Display
+
+When the graphics card supports the desktop display function and the resolution is set to a non-recommended resolution, you can do the following.
 
 1. On the homepage of Control Center, click ![display_normal](../common/display_normal.svg).
 2. In the drop-down list of the desktop display area, select an appropriate desktop display effect.
@@ -638,7 +645,7 @@ If you have installed several applications with similar functions, such as text 
 1. On the homepage of Control Center, click ![default_applications_normal](../common/default_applications_normal.svg).
 2. Select a file type.
 3. Click ![add](../common/add.svg) below to add a desktop file (usually at /usr/share/applications) or a specified binary file as the Default Applications.
-4. The application will be added to the list and set as Default Applications automatically. 
+4. Add it to the list and check it, it will be set as a default application. 
 
 #### Delete Default Applications
 
