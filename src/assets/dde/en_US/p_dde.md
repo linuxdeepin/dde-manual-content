@@ -548,14 +548,7 @@ If "Login Without Password" is enabled, you only need to click ![login](../commo
 
 For example, you modify the password on September 1st, and set the validity period as 30 days. Then the new password could be normally used from September 1st to September 30th. 
 
-#### Set up Security Questions
 
-Setting up security questions helps you reset your password if you forget it.
-
-1. On the homepage of Control Center, click ![account_normal](../common/account_normal.svg). 
-2. Click Current Account. 
-3. Click the icon for the row where the security issue is located ![next](../common/next.svg) to enter the security question settings page. 
-4. Select three different security questions and set the answers, then click **Confirm**.
 
 #### Delete Account
 
@@ -602,13 +595,15 @@ When there is only one screen, you can adjust the brightness, resolution, refres
 
 ##### Adjust Brightness
 
+The brightness module is displayed only when the devices or configurations support the brightness adjusting, and you can do the following.
+
 1. On the homepage of Control Center, click ![display_normal](../common/display_normal.svg).
 
 2. In "Brightness" area, you can drag the slider to adjust the brightness.
 
 ##### Adjust Color Temperature
 
-The color temperature module is displayed only when the graphics card supports the color temperature setting, and you can do the following.
+The color temperature module is displayed only when the devices or configurations support the color temperature setting, and you can do the following.
 
 1. On the homepage of Control Center, click ![display_normal](../common/display_normal.svg).
 
@@ -616,6 +611,8 @@ The color temperature module is displayed only when the graphics card supports t
 
    - Switch on **Night Shift**, the screen hue will be auto-adjusted according to your location.
    - Switch on **Change Color Temperature** is switched on, you can adjust the monitor brightness as you wish. 
+
+
 
 >![notes](../common/notes.svg) Notes: When **Night Shift** is switched on, **Change Color Temperature** becomes unavailable automatically, and vice versa.
 
@@ -845,12 +842,12 @@ To prevent others from scanning your network and cracking your password, you can
 2. Click **Wireless Network** to enter the setting page of wireless network.
 3. Switch on **Wireless Network Adapter** to enable the wireless network.
 4. Click **Connect to Hidden Network**.
-5. Enter the name, SSID, and other required info.
+5. Enter the name (SSID), and other required info.
 6. Click **Save**.
 
 #### Hotspot
 
-Hotspot changes the connected network signal to WLAN hotspot, so that other devices nearby can connect to the hotspot and surf the Internet. To enable hotspot, your computer must connect to a network and have a wireless network adapter that supports hotspot.
+A personal hotspot converts your computer's network signal into a wireless hotspot for other devices within a certain distance to connect wirelessly. To enable a wireless hotspot, the computer must have a wireless network card that supports the hotspot function.
 
 1. On the homepage of Control Center, click ![network_normal](../common/network_normal.svg).
 2. Click **Personal Hotspot**.
@@ -1724,11 +1721,13 @@ In Developer Mode, you can have root access, perform sudo operation, install and
 
 #### User Experience Program
 
-User Experience Program collects your hardware, application and system information and help us better understand the user needs and thus improve user experiences. To have a better operating system, you are recommended to join the User Experience Program. And you are free to join and exit the program anytime.
+When you open User Experience Program, you authorize us to collect and use information about your device, system and applications, which helps to improve the features most frequently used by users and to solve problems encountered during the operation of the syestem, so as to better meet the needs of users and improve user experience.
+
+In order to make better use of the system, users are recommended to start a user experience program, which can be joined or withdrawn at any time.
 
 1. On the homepage of Control Center, click ![general](../common/general.svg).
 
-2. Switch on **User Experience Program**, and read the privacy policy.
+2. Switch on **User Experience Program**, and read the User Experience Program License Agreement.
 
 3. If you agree, check **Agree and Join User Experience Program**, and **Confirm**.
 
