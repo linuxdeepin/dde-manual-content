@@ -1762,21 +1762,23 @@ On the desktop, press **Super** + **S** or click ![multitasking](../common/deepi
 
 On the workspace interface, you can add workspace in the following ways:
 
-   - Click **+** above workspace.
+   - Click **+** in the upper right corner of workspace.
    - Press **Alt** + **+** on the keyboard.
 
->![notes](../common/notes.svg) Notes: When the workspace number has reached its limit **4**, you cannot add more workspaces. 
+>![notes](../common/notes.svg) Notes: When the workspace number has reached its limit **6**, you cannot add more workspaces. 
 
 ### Switch Workspace
 
 On the workspace interface and desktop, you can switch workspace in the following ways:
 
    - On the desktop, press  **Super**+ ![Left](../common/Left.svg) / ![Right](../common/Right.svg) to switch to Previous/Next workspace.
-   - On the desktop, press  **Super** + Numeric keys (1-4)  to switch to a specified workspace.
+   - On the desktop, press  **Super** + Numeric keys (1-6)  to switch to a specified workspace.
    - On the workspace interface, scroll up or down to switch to Previous/Next workspace.
-   - On the workspace interface, click the preview window or press the numeric keys (1-4) to switch to a specified workspace.
+   - On the workspace interface, click the preview window to switch to a specified workspace.
 
 >![notes](../common/notes.svg) Notes: On the touchpad, move with four/five fingers to the left/right to switch to the previous or next workspace, which corresponds to the operation of **Super** + **Left** or **Super** + **Right**. 
+
+>![tips](../common/tips.svg) Tips: You can adjust workspace's position by dragging in the workspace interface.
 
 ### Delete Workspace
 
@@ -1859,8 +1861,10 @@ When browsing on split screen, once the center of the moving window crosses the 
 
 When browsing on split screen, move the cursor to the connection between the two windows in the middle of the screen and drag left and right to modify the width of both windows at the same time.
 
+> ![notes](../common/notes.svg) Notes: When you can't drag the window anymore in a certain direction, the cursor will indicate other draggable directions.
+
 #### Exit split screen
 
-- Drag any window away from the connection between the windows.
 - Click max or close button of any current window, it will exit split screen, and the remaining windows stay in split screen.
-
+- When there are two windows in split screen, drag any one to the top of the screen to trigger fullscreen, and the current window exits split screen, the other one remains in split screen.
+- Drag any window away from the connection between the windows.
