@@ -35,7 +35,7 @@ Right-click a file or folder on the desktop, and use the features of File Manage
 
 | Function         | Description                                                  |
 | ---------------- | ------------------------------------------------------------ |
-| Open with        | Select an app to open it.                                    |
+| Open with        | Select the default application to open it, or select another proper one to open it. |
 | Compress/Extract | Compress the file or folder, or extract the compressed file. |
 | Cut              | Move it to another location.                                 |
 | Copy             | Copy it to another location.                                 |
@@ -47,7 +47,7 @@ Right-click a file or folder on the desktop, and use the features of File Manage
 | Properties       | View the basic info, share it or change the permission.      |
 
 >![notes](../common/notes.svg) Notes: 
->   - If you are using a computer equipped with a touchscreen, long press for 1 second and release on the touchscreen.
+>   - If you are using a computer equipped with a touchscreen, long press for one second and release on the touchscreen.
 >   - On the touchpad, click with two fingers to display the right-click menu. 
 >   - Press **Alt** + **M** on the keyboard to open right-click menu. 
 
@@ -133,7 +133,7 @@ Dock is at the bottom of the desktop by default to help you quickly open frequen
 
 ### Icons on Dock 
 
-In the Dock, there are icons of Launcher, applications, system tray, and plugins.
+In the Dock, there are icons of Launcher, applications, system tray, plugin icons and so on.
 
 ![1|fashion](fig/p_efficient.png)
 
@@ -156,9 +156,9 @@ In the Dock, there are icons of Launcher, applications, system tray, and plugins
 | ![onboard](../common/onboard.svg) | Onboard virtual keyboard. |
 | ![shutdown](../common/system-shutdown.svg) | Click to enter the shutdown interface. |
 | ![trash](../common/trash_icon.svg) | Trash. |
+| ![Screen-Capture](../common/Screen-Capture.svg) | Screen Capture - Click to start capturing screenshots and recording videos. |
 
 
->![notes](../common/notes.svg) Notes: Flight mode is not available when the wireless network is disabled.
 
 ### Switch Display Mode
 
@@ -207,23 +207,21 @@ You can hide the Dock in order to maximize the expansion of the desktop operatin
 
 1. Right-click the Dock
 2. Click **Dock Settings** to enter **Personalization >  Dock** in Control Center.
-3. In the plugin area, you can check or uncheck **Trash, System Monitor, Power, Show Desktop, Onboard, Notification Center, Datetime and Desktop AI Assistant** to show or hide the corresponding icon in the Dock.
+3. In the plugin area, you can check or uncheck **Trash, System Monitor, Power, Show Desktop, Onboard, Notification Center, Datetime, Screen Capture, and Desktop AI Assistant** to show or hide the corresponding icon in the Dock.
 
 ### View Notifications
 
 When there are system or application notifications, they will be shown in the middle of the screen. If there are buttons in the message, click buttons to do the actions; if there are not, click the message to close it.
 
-![notification](fig/notification.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 Click ![notification](../common/notification.svg) in Dock to view all the notifications.
+
+![notification](fig/notification.png)
 
 >![notes](../common/notes.svg) Notes: If you are using a computer equipped with a touchscreen, slide in from the right edge of the screen exceeding the dock's height to call out Notification Center.
 
 ### Use Desktop AI Assistant
 
-Desktop AI Assistant supports voice and text input, information search, operation instructions, etc. With it, you can adjust system volume and screen brightness, and switch on/off power saving mode, WiFi or Bluetooth.
+Desktop AI Assistant supports voice and text input, information search, operation instructions, etc. With it, you can adjust system volume and screen brightness, and switch on/off power saving mode, wireless network or Bluetooth.
 
 >![notes](../common/notes.svg) Notes: Voice dictation, voice reading, translation and other functions of Desktop AI Assistant are available only after you activate the system. When you run Desktop AI Assistant for the first time, a private agreement window pops up. After you agree with it, you can use functions such as voice dictation, voice reading, translation and others normally.
 
@@ -292,7 +290,7 @@ You can either click ![shutdown](../common/system-shutdown.svg) in Dock or click
 | Log out ![logout_normal](../common/logout_normal.svg)        | Click it to clear up all information about the current account. |
 | Start system monitor![deepin-system-monitor](../common/deepin-system-monitor.svg) | Click it to open System Monitor quickly.               |
 
->![notes](../common/notes.svg) Notes: ![userswitch_normal](../common/userswitch_normal.svg) will be shown if there are multiple accounts in the system.
+>![notes](../common/notes.svg) Notes: Switch user ![userswitch_normal](../common/userswitch_normal.svg) will be shown if there are multiple accounts in the system.
 
 ### Trash
 
@@ -413,14 +411,14 @@ Uninstall the applications you no longer use to save disk space.
 1. In Launcher, right-click the application icon.
 2. Click **Uninstall**.
 
->![tips](../common/tips.svg) Tips: In **Fashion mode**, drag the application icon in Launcher fullscreen mode to ![trash](../common/trash_icon.svg) in the Dock to uninstall the application.
+>![notes](../common/notes.svg) Notes: Some system applications can't be uninstalled. 
 
 
 ## Control Center
 
 You can manage the system settings in Control Center, including account management, network settings, date and time, personalization, display settings, system and application update, etc. After entering the desktop environment, click ![controlcenter](../common/controlcenter.svg) to open Control Center.
 
->![notes](../common/notes.svg) Notes: On the touchpad, slide with two fingers from the right edge of the touchpad to the left to display Control Center; slide with two fingers from the left edge of the touchpad to the right to hide Control Center. 
+>![notes](../common/notes.svg) Notes: On the touchpad, slide with two fingers from the right edge of the touchpad to the left to display Control Center; slide with two fingers from the left edge of the touchpad to the right to hide Control Center.
 
 ### Homepage Introduction
 
@@ -436,9 +434,9 @@ Once you open a setting module in Control Center, the navigation appears on the 
 
 The title bar contains the back button, search box, main menu and the window buttons.
 
-   - Back button: Click ![back](../common/back.svg) to go back to the homepage.
+   - Back button ![back](../common/back.svg): Click it to go back to the homepage.
    - Search box: Input a keyword and search the related settings.
-   - Main menu: Click ![menu](../common/icon_menu.svg) to enter the main menu where you can set the window theme, view the manual and exit.
+   - Main menu ![menu](../common/icon_menu.svg): Click it to enter the main menu where you can set the window theme, view the manual and exit.
 
 ### Biometric Authentication|authentication
 
@@ -491,10 +489,11 @@ You have already created an account when installing the system. Here you can mod
 
 1. On the homepage of Control Center, click ![account_normal](../common/account_normal.svg).
 2. Click ![add](../common/add.svg).
-3. Input a username and a password twice.
+3. Select the account type, set up username, fullname, and enter the password twice, and set up the security questions. 
 4. Click **Create**.
 5. Input the password of  the current user account in the authentication dialog box, and the new account will be added to the account list.
 
+> ![tips](../common/tips.svg) Tips: You can also set the account type of the standard user as Administrator.
 
 #### Change Account Avatar
 
@@ -516,6 +515,19 @@ The account full name is shown in account list and system login interface and yo
 2. Click the current account.
 3. Click **Change Password**.
 4. Input the current password, the new password, and repeat the new one, click **Save**.
+
+> ![notes](../common/notes.svg) Notes: After the administrator account expires, you need to change the password before you can perform the authentication operation.
+
+#### Reset Password
+
+If you forget your password and enter the wrong password for five times, the system login screen will trigger the password reset function.
+
+**Prerequisites**: the account is bound to Union ID.
+
+1. After clicking **Reset Password** button, set mobile phone number/email, new password, repeat password, security questions, get verification code, and click Reset in the pop-up “Reset Password By Union ID” window.
+2. Click **Confirm and Reset** in the pop-up confirmation dialog box, then you can log in to the system with the new password.
+
+
 
 #### Auto Login
 
@@ -544,7 +556,7 @@ If "Login Without Password" is enabled, you only need to click ![login](../commo
 2. Click the current account.
 3. Set the validity period of the password. You can set a particular number or select "Always". 
 
->![notes](../common/notes.svg) Notes: the validity period starts to take effect from the day you modify the password.   
+The validity period starts to take effect from the day you modify the password.   
 
 For example, you modify the password on September 1st, and set the validity period as 30 days. Then the new password could be normally used from September 1st to September 30th. 
 
@@ -570,7 +582,7 @@ If you don't have a Union ID yet, you can sign up as follows:
 
 By logging in your Union ID, you can use cloud services such as cloud synchronization, App Store, Mail, browser and others.
 
->![tips](../common/tips.svg) Tips: You can reset your password using your Union ID after it has been linked to the user account.
+>![tips](../common/tips.svg) Tips: You can reset your password using your Union ID after it has been bound to the user account.
 
 Cloud synchronization can automatically synchronize various system configurations to the cloud, such as network, sound, mouse, update, dock, launcher, wallpaper, theme, power supply, etc. To sync the settings from the cloud to another computer, just sign in with the same Union ID on that computer.
 
@@ -653,7 +665,7 @@ Set a proper display scale to have a normal display.
 
 #### Multiple Screen Settings
 
-Expand your desktop by multiple screens! Use VGA/HDMI/EDP cable to connect your computer to other display devices such as monitor, projector and so on. When the computer is connected to another display device, **Multiple Displays** will appear.
+Expand your desktop by multiple screens. Use VGA/HDMI/EDP cable to connect your computer to other display devices such as monitor, projector and so on. When the computer is connected to another display device, **Multiple Displays** will appear.
 
 ![0|display](fig/p_displayMulti.png)
 
@@ -671,7 +683,7 @@ In extend mode, click **Gather Windows** to gather all setting windows to the ce
 - on the sub screen, setting windows of the current sub screen will be placed on the top layer, and the ones of the main screen will be placed at the bottom layer.
 
 
->![notes](../common/notes.svg) Notes: in extend mode, "multiple displays" is displayed in right-click menu of the Dock, including "only on main screen" and "on screen where the cursor is", which are mutually exclusive.
+>![notes](../common/notes.svg) Notes: in extend mode, in "Personalization > Dock" in Control Center,  "multiple displays" contains "only on main screen" and "on screen where the cursor is", which are mutually exclusive.
 
 
 In multiple displays, press **Super** + **P** to show its OSD. 
@@ -770,6 +782,12 @@ This function is available only when "Window Effect" is switched on. Move the sl
 2. Click **General**, and switch on **Window Effect**.
 3. Click the bar to adjust the transparency and view the effect in real time.
 
+#### Change Rounded Corner Radius
+
+1. On the homepage of Control Center, click ![personalization_normal](../common/personalization_normal.svg).
+2. Click **General**, and switch on **Window Effect**.
+3. Drag the slider under **Rounded Corner** to adjust the radius of window corners and view the effect in real time.
+
 #### Set Icon Theme
 
 1. On the homepage of Control Center, click ![personalization_normal](../common/personalization_normal.svg).
@@ -798,6 +816,8 @@ The mode, location, status of Dock can also be set in **Personalization > Dock**
    - Set the status as "keep shown", "keep hidden" and "smart hide".
    - Change the Dock height by dragging the size slider.
    - Check or uncheck plugins and set their status on the Dock.
+
+In extend mode, the dock can be set as "only on main screen" or "on screen where the cursor is".
 
 ### Network Settings
 
@@ -854,6 +874,14 @@ A personal hotspot converts your computer's network signal into a wireless hotsp
 3. Switch on **Hotspot** and do the settings.
 4. Click **Save**. 
 
+#### Airplane Mode
+Enabling the airplane mode turns off wireless network, personal hotspot and Bluetooth. You can also enable or disable airplane mode by clicking the airplane mode plugin in the Dock.
+
+1. On the homepage of Control Center, click ![network_normal](../common/network_normal.svg).
+2. Click **Airplane Mode**.
+3. Switch on the slider to enable airplane mode.
+
+>![notes](../common/notes.svg) Notes: Airplane mode is not shown if your computer does not have a wireless network card and does not support Bluetooth.
 
 #### Mobile Network
 
@@ -902,14 +930,14 @@ VPN is a virtual private network. Its main function is to establish a private ne
 
 1. On the homepage of Control Center, click ![network_normal](../common/network_normal.svg).
 2. Click **Application Proxy**.
-3. Do the necessary settings.
+3. Set the parameters such as proxy type, IP address, port and so on.
 4. Click **Save**.
 
 >![notes](../common/notes.svg) Notes: After being configured, run Launcher, right-click any application's icon and check **Use a proxy**.
 
 #### Network Info
 
-You can view MAC, IP address, gateway and other network info in network details. 
+You can view MAC address, IP address, gateway and other network info in network details. 
 
 1. On the homepage of Control Center, click ![network_normal](../common/network_normal.svg).
 2. Click **Network Details**.
@@ -1177,7 +1205,7 @@ Any operation done here will take effect immediately. At the same time, the syst
 2. Click **On Battery**.
 3. Switch on **Low Battery Notification**. The system issues a low battery notification when the remaining battery power is below a set threshold (for example, 20%).
 
-You can adjust the threshold of low battery level by dragging the slider below "Low battery level".  You can adjust the threshold of auto suspend battery level by dragging the slider below "Auto suspend battery level".
+You can adjust the threshold of low battery level by dragging the slider below "Low battery level".  
 
 >![notes](../common/notes.svg) Notes: This function is only available for laptops.
 
@@ -1317,7 +1345,7 @@ You can add multiple input methods to the input method management list to switch
 1. On the homepage of Control Center, click ![keyboard_normal](../common/keyboard_normal.svg).
 2. Click **Input Methods**.
 3. In "Shortcuts" area, select the shortcut key for switching input methods from the drop-down box.
->![notes](../common/notes.svg) Notes: Once the shortcut key is set successfully, when the input method is switched, it will automatically switch to the keyboard layout corresponding to the input method. Select **Applies to** to apply the switched keyboard layout to the whole system or current application.
+>![notes](../common/notes.svg) Notes: Once the shortcut key is set successfully, when the input method is switched, the keyboard layout is switched accordingly. Select **Applies to** to apply the switched keyboard layout to the whole system or current application.
 
 ##### Advanced Settings
 
@@ -1413,7 +1441,7 @@ Desktop AI Assistant  boosts your productivity by executing voice commands, such
 
 ### Update Settings
 
-The auto-check, auto-download, auto-install, and update reminder functions will only work properly when you enable "System", "Security Updates Only", or "Third-party Repositories" in the "Update Settings" page for the update types that can be updated from the repository.
+The auto-check, auto-download, auto-install, and update reminder functions will only work properly when you enable "System", or "Security Updates Only" on the "Update Settings" page.
 
 When there are system updates, it will be notified on the home page of Control Center. Click ![update](../common/update.svg) to enter "Updates" page. Click **Check for Updates**. After checking is done, you can download and install system and application updates. You can also set to download the updates automatically. 
 
@@ -1430,7 +1458,7 @@ When there are system updates, it will be notified on the home page of Control C
 3. Click **Download and install** or **Update All** button, the system starts to download and install updates automatically.
 4. After updating finishes, a prompt message saying "update successful" appears. You can choose to reboot, shut down or cancel the operations according to actual needs.
 
->![notes](../common/notes.svg) Notes: You can click the button to pause and resume the downloading process. 
+
 
 #### Set up "Updates from Repositories"
 
@@ -1465,11 +1493,6 @@ You can view system version, authorization info, hardware info, and the agreemen
 - click ![edit](../common/edit.svg) to modify the computer name;
 - view system version, authorization and hardware information.
 3. If the system has not been activated, click **Activate** to activate the system.
-
-#### Edition License
-
-1. On the homepage of Control Center, click ![system_info_normal](../common/system_info_normal.svg).
-2. View the system edition license under **Edition License**.
 
 #### End User License Agreement
 
@@ -1547,9 +1570,12 @@ It is available to view the information such as status, expiration date and so o
 
 1. Click ![uos1](../common/authorize1.svg) on the tray in the lower right corner to enter the interface.
 2. Click **Import License File**, select the correct license file in .key format in the File Manager and click **Activate Now**.  
-3. Click **Confirm** in the secondary confirming dialogue box and pops up the activation success interface.
 
 ![0|license_file](fig/license_file.png)
+
+3. Click **Confirm** in the secondary confirming dialogue box and pops up the activation success interface.
+
+
 
 ##### Off-line Activation
 
@@ -1687,15 +1713,15 @@ Boot menu is the grub menu for users to select an operating system to start. Aft
 
 ##### Startup Delay
 
-When there are multiple systems in the computer, Startup Delay will be switched on by default, and the grub menu will keep 5 seconds for users to select.
+When there are multiple systems in the computer, Startup Delay will be switched on by default, and the grub menu will keep five seconds for users to select.
 
-When there is only one system in the computer, Startup Delay will be switched off by default, and the grub menu will keep only 1 second.
+When there is only one system in the computer, Startup Delay will be switched off by default, and the grub menu will keep only one second.
 
 ##### Default Boot Entry
 
 1. On the homepage of Control Center, click ![general](../common/general.svg).
 2. Click **Boot Menu**.
-3. Click the option in the preview window to set it as the default one.
+3. Select one option, the authentication window pops up. Input password to set it as the default one.
 
 ##### Boot Menu Theme
 
@@ -1765,14 +1791,14 @@ On the workspace interface, you can add workspace in the following ways:
    - Click **+** in the upper right corner of workspace.
    - Press **Alt** + **+** on the keyboard.
 
->![notes](../common/notes.svg) Notes: When the workspace number has reached its limit **6**, you cannot add more workspaces. 
+>![notes](../common/notes.svg) Notes: When the workspace number has reached its limit **six**, you cannot add more workspaces. 
 
 ### Switch Workspace
 
 On the workspace interface and desktop, you can switch workspace in the following ways:
 
    - On the desktop, press  **Super**+ ![Left](../common/Left.svg) / ![Right](../common/Right.svg) to switch to Previous/Next workspace.
-   - On the desktop, press  **Super** + Numeric keys (1-6)  to switch to a specified workspace.
+   - On the desktop, press  **Super** + Numeric keys (one to six)  to switch to a specified workspace.
    - On the workspace interface, scroll up or down to switch to Previous/Next workspace.
    - On the workspace interface, click the preview window to switch to a specified workspace.
 
