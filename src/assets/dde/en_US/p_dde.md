@@ -874,15 +874,6 @@ A personal hotspot converts your computer's network signal into a wireless hotsp
 3. Switch on **Hotspot** and do the settings.
 4. Click **Save**. 
 
-#### Airplane Mode
-Enabling the airplane mode turns off wireless network, personal hotspot and Bluetooth. You can also enable or disable airplane mode by clicking the airplane mode plugin in the Dock.
-
-1. On the homepage of Control Center, click ![network_normal](../common/network_normal.svg).
-2. Click **Airplane Mode**.
-3. Switch on the slider to enable airplane mode.
-
->![notes](../common/notes.svg) Notes: Airplane mode is not shown if your computer does not have a wireless network card and does not support Bluetooth.
-
 #### Mobile Network
 
 If you are at a place without network, mobile network adapter is a useful tool to help you connect to the Internet as long as the place is covered by telephone signals.
