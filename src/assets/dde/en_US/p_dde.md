@@ -522,9 +522,9 @@ The account full name is shown in account list and system login interface and yo
 
 If you forget your password and enter the wrong password for five times, the system login screen will trigger the password reset function.
 
-**Prerequisites**: the account is bound to Union ID.
+**Prerequisites**: the account is bound to UOS ID.
 
-1. After clicking **Reset Password** button, set mobile phone number/email, new password, repeat password, security questions, get verification code, and click Reset in the pop-up “Reset Password By Union ID” window.
+1. After clicking **Reset Password** button, set mobile phone number/email, new password, repeat password, security questions, get verification code, and click Reset in the pop-up “Reset Password By UOS ID” window.
 2. Click **Confirm and Reset** in the pop-up confirmation dialog box, then you can log in to the system with the new password.
 
 
@@ -571,20 +571,20 @@ For example, you modify the password on September 1st, and set the validity peri
 
 >![attention](../common/attention.svg) Attention: The logged in account cannot be deleted.
 
-### Union ID
+### UOS ID
 
-You can only use the relevant functions after you have successfully registered your Union ID and logged in.
+You can only use the relevant functions after you have successfully registered your UOS ID and logged in.
 
-If you don't have a Union ID yet, you can sign up as follows:
+If you don't have a UOS ID yet, you can sign up as follows:
 
 - Sign up on the official website (currently multiple methods are supported including scanning via WeChat on mobile phone and register with phone number, and so on). 
-- In the Control Center Union ID interface, click **Sign In** to bring up the Union ID login interface. Click **Sign Up** to bring up the Union ID registration interface for registration (signing up by cell phone number and WeChat is supported).
+- In the Control Center UOS ID interface, click **Sign In** to bring up the UOS ID login interface. Click **Sign Up** to bring up the UOS ID registration interface for registration (signing up by cell phone number and WeChat is supported).
 
-By logging in your Union ID, you can use cloud services such as cloud synchronization, App Store, Mail, browser and others.
+By logging in your UOS ID, you can use cloud services such as cloud synchronization, App Store, Mail, browser and others.
 
->![tips](../common/tips.svg) Tips: You can reset your password using your Union ID after it has been bound to the user account.
+>![tips](../common/tips.svg) Tips: You can reset your password using your UOS ID after it has been bound to the user account.
 
-Cloud synchronization can automatically synchronize various system configurations to the cloud, such as network, sound, mouse, update, dock, launcher, wallpaper, theme, power supply, etc. To sync the settings from the cloud to another computer, just sign in with the same Union ID on that computer.
+Cloud synchronization can automatically synchronize various system configurations to the cloud, such as network, sound, mouse, update, dock, launcher, wallpaper, theme, power supply, etc. To sync the settings from the cloud to another computer, just sign in with the same UOS ID on that computer.
 
 >![notes](../common/notes.svg) Notes: 
 > a. "Auto Sync" is only available when the system is activated or in trial period.
@@ -679,11 +679,11 @@ In duplicate or extend mode, click **Recognize**, then the screen name appears i
 
 In extend mode, click **Gather Windows** to gather all setting windows to the center of that screen.
 
-- on the main screen, setting windows of the main screen will be placed at the bottom layer, and the ones of the sub screen will be placed on the top layer.
-- on the sub screen, setting windows of the current sub screen will be placed on the top layer, and the ones of the main screen will be placed at the bottom layer.
+- On the main screen, setting windows of the main screen will be placed at the bottom layer, and the ones of the sub screen will be placed on the top layer.
+- On the sub screen, setting windows of the current sub screen will be placed on the top layer, and the ones of the main screen will be placed at the bottom layer.
 
 
->![notes](../common/notes.svg) Notes: in extend mode, in "Personalization > Dock" in Control Center,  "multiple displays" contains "only on main screen" and "on screen where the cursor is", which are mutually exclusive.
+>![notes](../common/notes.svg) Notes: In extend mode, in "Personalization > Dock" in Control Center,  "multiple displays" contains "only on main screen" and "on screen where the cursor is", which are mutually exclusive.
 
 
 In multiple displays, press **Super** + **P** to show its OSD. 
@@ -781,6 +781,12 @@ This function is available only when "Window Effect" is switched on. Move the sl
 1. On the homepage of Control Center, click ![personalization_normal](../common/personalization_normal.svg).
 2. Click **General**, and switch on **Window Effect**.
 3. Click the bar to adjust the transparency and view the effect in real time.
+
+#### Show Transparency Effects When a Window is Moved
+
+1. On the homepage of Control Center, click ![personalization_normal](../common/personalization_normal.svg).
+2. Click **General**, and switch on **Window Effect**.
+3. Turn on **Show transparency effects when a window is moved**. When you move a window, the window becomes transparent.
 
 #### Change Rounded Corner Radius
 
@@ -944,15 +950,13 @@ You can set "Do Not Disturb" to system notifications, and also switch on or off 
 
 #### System Notification Settings
 
-You can set "Do Not Disturb" to system notifications and whether to show icon on Dock here.
+You can set "Do Not Disturb" to system notifications.
 
 1. On the homepage of Control Center, click ![nav_notifi_42px](../common/dcc_nav_notification_36px.svg).
-
-2. Click **System Notification**.
+2. Click **System Notifications**.
 
    - Switch on/off **Do Not Disturb**.
-   After switching on this button, you can set the starting and ending time; also, you can check **When the screen is locked**. Under this mode, all notification are muted, but you can view all notifications in Notification Center. 
-   - Switch on/off **Show icon on Dock**.
+     After switching on this button, you can set the starting and ending time; also, you can check **When the screen is locked**. Under this mode, all notification are muted, but you can view all notifications in Notification Center. 
 
 #### App Notification Settings
 
@@ -1027,7 +1031,7 @@ Bluetooth helps you make a short-distance wireless communication between Bluetoo
 4. After that, the Bluetooth device will be added to **My Device** list.
 5. In "My Device" list, click the device, you can **Disconnect** the device, or change its name.
 
-#### Transfer/Receive files via Bluetooth
+#### Transfer/Receive Files via Bluetooth
 
 Files could be transferred / received via Bluetooth between UnionTech OS PC and non UnionTech OS PC or between UnionTech OS PC and mobile device (mobile phone / tablet).
 
@@ -1103,12 +1107,12 @@ Note that the auto-sync function will be disabled after changing date and time m
 
 >![notes](../common/notes.svg) Notes: You can also switch on **Auto Sync**, and set the server sync parameters.
 
-#### Set Time Format
+#### Set Format
 
-Setting the format of time and date is supported.
+You can set date and time format, currency format and number format here.
 
 1. On the homepage of Control Center, click ![time](../common/time.svg).
-2. Click **Time Format** to set the first day of week, long date, short date, long time, and short time.
+2. Click **Time Format** to change the format of date and time, currency, and number.
 
 ### Power Management
 
@@ -1182,7 +1186,7 @@ To reduce the power consumption of your laptop, set your power saving mode.
 
 >![notes](../common/notes.svg) Notes: This function is only available for laptops.
 
-#### Power button settings
+#### Power Button Settings
 
 1. On the homepage of Control Center, click ![power_normal](../common/power_normal.svg).
 2. Click **Plugged In** and **On Battery**.
@@ -1449,9 +1453,7 @@ When there are system updates, it will be notified on the home page of Control C
 3. Click **Download and install** or **Update All** button, the system starts to download and install updates automatically.
 4. After updating finishes, a prompt message saying "update successful" appears. You can choose to reboot, shut down or cancel the operations according to actual needs.
 
-
-
-#### Set up "Updates from Repositories"
+#### Set Up "Updates from Repositories"
 
 1. On the homepage of Control Center, click ![update](../common/update.svg).
 2. Click **Update Settings**.
@@ -1644,11 +1646,11 @@ In order to avoid data loss or damage caused by software defects, hardware damag
 
 UnionTech OS provides backup by initialization and backup through Control Center.
 
-##### Backup by initialization
+##### Backup by Initialization
 
 If "Full Disk" is selected during system installation, a recovery partition would be created automatically at first, and the boot partition and root partition would be backup after that.
 
-##### Backup through control center
+##### Backup Through Control Center
 
 You can backup data through either **Full Backup** or **System Backup** from Control Center.
 
@@ -1730,7 +1732,7 @@ In Developer Mode, you can have root access, perform sudo operation, install and
 
 1. In the homepage of Control Center, click ![general](../common/general.svg).
 2. Click the **Developer Mode** and click the **Enter Developer Mode** Icon.
-   - If you choose the online Mode, please log into your Union ID first. Read the disclaimer carefully, check **Agree and Enter the Developer Mode** and click **Confirm** after understanding the precautions. The button will be changed to **Having Entered the Developer Mode** after the certificate is issued by the system.
+   - If you choose the online Mode, please log into your UOS ID first. Read the disclaimer carefully, check **Agree and Enter the Developer Mode** and click **Confirm** after understanding the precautions. The button will be changed to **Having Entered the Developer Mode** after the certificate is issued by the system.
    - If you choose the offline mode, download the certificate according to the prompt. Enter the developer mode after importing the certificate.
 3. Click **Reboot Now** in the pop-up  dialogue and enter the developer mode after rebooting the system.
 
@@ -1761,7 +1763,7 @@ In order to make better use of the system, users are recommended to start a user
 
 Window Manager can display different window contents in different workspaces. With the Window Manager, you can use multiple desktops at the same time to manage desktop windows in groups.
 
->![notes](../common/notes.svg) Notes: this function is available only when **Window Effect** is turned on in **Control Center**>**Personalization** >**General** . 
+>![notes](../common/notes.svg) Notes: this function is available only when **Window Effect** is turned on in **Control Center** > **Personalization** > **General** . 
 
 ![1|workspace](fig/p_workspace.png)
 
@@ -1820,7 +1822,7 @@ View all the windows in the workspaces in the following ways:
    - On the desktop, press **Super** + **A** on the keyboard to view the windows in all workspaces.
    - On the desktop, press **Super** + **W** to view the windows in the current workspace.
 
-#### Move Windows among Workspaces
+#### Move Windows Among Workspaces
 
 Move the windows to another workspace in the following ways:
 
@@ -1835,22 +1837,22 @@ Move the windows to another workspace in the following ways:
 
 Switch desktop windows in the current workspace as below.
 
-#### Fast Switch between Nearby Windows
+#### Fast Switch Between Nearby Windows
 
 On the desktop, press  **Alt** + **Tab** at the same time and release, to switch between the current window and the nearby window quickly;
 On the desktop, press **Alt** + **Shift** + **Tab** at the same time and release, to fast switch between current window and the nearby window reversely;
 
-#### Fast Switch between Windows of the Same Type
+#### Fast Switch Between Windows of the Same Type
 
 On the desktop, press **Alt** +  ![~](../common/~.svg)  at the same time and release, to switch between the current window and other windows of the same type quickly;
 On the desktop, press  **Alt** + **Shift** + ![~](../common/~.svg) at the same time and release, to fast switch between current window and other windows in same type reversely;
 
-#### Switch among All Windows
+#### Switch Among All Windows
 
 On the desktop, press and hold **Alt** and press **Tab** continually and it will show the right windows one by one; 
 On the desktop, press and hold **Alt** + **Shift** and press **Tab** continually and it will show the left windows one by one.
 
-#### Switch among Windows of the Same Type
+#### Switch Among Windows of the Same Type
 
 On the desktop, press and hold **Alt** and press ![~](../common/~.svg) continually and it will show the same type of windows towards the right one by one; on the desktop, press and hold **Alt** + **Shift** and press ![~](../common/~.svg) continually and it will show the same type of windows towards the left one by one.
 
@@ -1858,7 +1860,7 @@ On the desktop, press and hold **Alt** and press ![~](../common/~.svg) continual
 
 With split screen, multiple applications and tasks are displayed simultaneously, which  improves your work and learning efficiency by not only making full use of the space of the large screen, but also reducing frequent switching between multiple application windows.
 
-#### Enter split screen
+#### Enter Split Screen
 
 1. Drag the window to the left or right part of the screen until the cursor touches the screen edge and the white transparent background appears, drop the window and it will be adsorbed on the left or right half of the screen.
 
@@ -1870,17 +1872,17 @@ With split screen, multiple applications and tasks are displayed simultaneously,
 
 In split screen under multiple display mode, the system supports matching split screen windows on the same screen. On the opposite, it does not support cross screen matching of split screen windows.
 
-#### Adjust window positions
+#### Adjust Window Positions
 
 When browsing on split screen, once the center of the moving window crosses the center line of the split screen area, the other window will automatically switch to the position of the moving window on the split screen. Release the moving window, and it will fill the vacant position on the split screen.
 
-#### Adjust window sizes
+#### Adjust Window Sizes
 
 When browsing on split screen, move the cursor to the connection between the two windows in the middle of the screen and drag left and right to modify the width of both windows at the same time.
 
 > ![notes](../common/notes.svg) Notes: When you can't drag the window anymore in a certain direction, the cursor will indicate other draggable directions.
 
-#### Exit split screen
+#### Exit Split Screen
 
 - Click max or close button of any current window, it will exit split screen, and the remaining windows stay in split screen.
 - When there are two windows in split screen, drag any one to the top of the screen to trigger fullscreen, and the current window exits split screen, the other one remains in split screen.
