@@ -2,19 +2,9 @@
 
 ## Overview
 
-UnionTech OS (UnionTech operating system) is a beautiful, easy-to-use and reliable Linux desktop operating system. It is equipped with a series of original applications such as File Manager, App Store, System Monitor, and etc, which not only offers you abundant entertainment experience but also meet your daily needs of learning and working. With continual improvement, UnionTech OS is becoming one of the most popular open-source operating systems in China.
+CRITC HongAn Desktop OS (CRITC OS) is a beautiful, easy-to-use and reliable Linux desktop operating system. It is equipped with a series of original applications such as File Manager, App Store, System Monitor, and etc, which not only offers you abundant entertainment experience but also meet your daily needs of learning and working. 
 
 ![1|desk](fig/p_desk.png)
-
-### Getting Started
-
-When you log into the system for the first time, a welcome program will automatically start.  Watch the introduction video to get new features, customize your desktop, enable the window effect and know more about UnionTech OS.
-
-![0|welcome](fig/p_welcome.png)
-
-Once login, you are experiencing UnionTech OS Desktop Environment, which is comprised of Desktop, Dock, Launcher, Control Center, and window manager. 
-
-
 
 ## Desktop
 
@@ -147,11 +137,9 @@ In the Dock, there are icons of Launcher, applications, system tray, plugin icon
 | ![ deepin-album](../common/deepin-album.svg) | Album - import and manage photos. |
 | ![deepin-appstore](../common/deepin-appstore.svg) | App Store - search and install applications. |
 | ![deepin-music](../common/deepin-music.svg) |  Music - play local songs.  |
-| ![deepin-contacts](../common/deepin-contacts.svg) | Contacts - click to communicate with friends and hold video conferences. |
 | ![dde-calendar](../common/dde-calendar.svg) | Calendar -  view dates and create new schedules. |
 | ![controlcenter](../common/controlcenter.svg) |   Control Center - click to check or change system settings.   |
 | ![notification](../common/notification.svg) | Notification Center - show all notifications from the system and applications. |
-| ![desktop-ai-assistant](../common/desktop-ai-assistant.svg) | Desktop AI Assistant - click to issue instructions or make inquiries with voice or texts. |
 | ![search](../common/search-dark.svg) | Grand search - search or find any content. |
 | ![onboard](../common/onboard.svg) | Onboard virtual keyboard. |
 | ![shutdown](../common/system-shutdown.svg) | Click to enter the shutdown interface. |
@@ -205,7 +193,7 @@ You can hide the Dock in order to maximize the expansion of the desktop operatin
 
 ### Show/Hide Plugins
 
-1. Right-click the Dock
+1. Right-click the Dock.
 2. Click **Dock Settings** to enter **Personalization >  Dock** in Control Center.
 3. In the plugin area, you can check or uncheck **Trash, System Monitor, Power, Show Desktop, Onboard, Notification Center, Datetime, Screen Capture, and Desktop AI Assistant** to show or hide the corresponding icon in the Dock.
 
@@ -218,57 +206,6 @@ Click ![notification](../common/notification.svg) in Dock to view all the notifi
 ![notification](fig/notification.png)
 
 >![notes](../common/notes.svg) Notes: If you are using a computer equipped with a touchscreen, slide in from the right edge of the screen exceeding the dock's height to call out Notification Center.
-
-### Use Desktop AI Assistant
-
-Desktop AI Assistant supports voice and text input, information search, operation instructions, etc. With it, you can adjust system volume and screen brightness, and switch on/off power saving mode, wireless network or Bluetooth.
-
->![notes](../common/notes.svg) Notes: Voice dictation, voice reading, translation and other functions of Desktop AI Assistant are available only after you activate the system. When you run Desktop AI Assistant for the first time, a private agreement window pops up. After you agree with it, you can use functions such as voice dictation, voice reading, translation and others normally.
-
-You can wake up Desktop AI Assistant as follows:
-
-1. Press **Super** + **Q** to wake up Desktop AI Assistant.
-
-2. Use fixed phrase "Hello Xiaohua" or "Hello Xiaohua + order" to wake up Desktop AI Assistant.
-
-You can input words and voice as follows：
-
-1. Click ![ai](../common/desktop-ai-assistant.svg) in the Dock to open Desktop AI Assistant.
-2. Connect the recording devices and  talk to Desktop AI Assistant directly, such as  "change the wallpaper", "adjust the screen brightness", and "what's the weather".
-3. It is also available to input text instructions after the input box appears.
-
-![ai1](fig/ai1.png) 
-
-![ai2](fig/ai2.png)
-
->![tips](../common/tips.svg) Tips: Select the text information needed and press **Ctrl** + **Alt** + **P** for voice reading; after connecting the recording devices, press **Ctrl** + **Alt** + **O** in the input box to enter the dictation mode and convert the voice input to texts.
-
-#### Set up Speech to Text
-
-Speech to Text is set in Assistive Tools in Control Center.  It is enabled by default and can be disabled as needed. 
-
-Select the input box, invoke the Speech to Text function via the shortcut keys **Ctrl** + **Alt** + **O** and start dictating the input voice. 
-
-#### Set up Text to Speech
-
-Text to Speech is set by default in Assistive Tools in Control Center. Only when it is enabled, Text to Speech function can be available. 
-
-Text to Speech is only available for the currently-selected texts and the operation steps are as follows:
-
-1. Select the texts, press  **Ctrl** + **Alt** + **P** on the keyboard or right-click **Text to Speech** to start reading.
-2. Click the speaker icon or right-click **Stop reading** to stop reading.
-
->![notes](../common/notes.svg) Notes: If you select other texts during reading, the current speaker icon will be displayed in the newly-selected location. Click the speaker icon, use the shortcut key or right-click **Text to Speech**, the current reading will be interrupted and  it starts reading the newly-selected texts.
-
-#### Set up Translation
-
-Translation is set by default (enabled) in Assistive Tools in Control Center. Only when it is enabled, the Translation function can be available. 
-
-Translation is only available for the currently-selected texts and the operation steps are as follows:
-
-1. Select the texts, press  **Ctrl** + **Alt** + **U** on the keyboard or right-click **Translate** to start translation.
-
->![notes](../common/notes.svg) Notes: It only supports Chinese-English and English-Chinese translation currently.
 
 ### View Date and Time
 
@@ -366,8 +303,6 @@ In Launcher, right-click an app icon and you can:
    - Select **Send to desktop** to create a shortcut on the desktop.
    - Select **Send to dock** to fix the application icon in Dock.
 
-![0|sendto](fig/sendto.png)
-
 >![notes](../common/notes.svg) Notes: You can drag the application icon from Launcher to Dock. But you cannot drag and drop the application while it is running. Then you can right-click the application icon in Dock and select **Dock** to fix it in order to open it quickly for the next time.
 
 #### Delete Shortcut
@@ -391,7 +326,6 @@ In Launcher, right-click the icon and you can:
 
 Search and install more applications you want in App Store.
 
-![0|Search](fig/p_search.png)
 
 ### Run Applications
 
@@ -571,29 +505,6 @@ For example, you modify the password on September 1st, and set the validity peri
 
 >![attention](../common/attention.svg) Attention: The logged in account cannot be deleted.
 
-### UOS ID
-
-You can only use the relevant functions after you have successfully registered your UOS ID and logged in.
-
-If you don't have a UOS ID yet, you can sign up as follows:
-
-- Sign up on the official website (currently multiple methods are supported including scanning via WeChat on mobile phone and register with phone number, and so on). 
-- In the Control Center UOS ID interface, click **Sign In** to bring up the UOS ID login interface. Click **Sign Up** to bring up the UOS ID registration interface for registration (signing up by cell phone number and WeChat is supported).
-
-By logging in your UOS ID, you can use cloud services such as cloud synchronization, App Store, Mail, browser and others.
-
->![tips](../common/tips.svg) Tips: You can reset your password using your UOS ID after it has been bound to the user account.
-
-Cloud synchronization can automatically synchronize various system configurations to the cloud, such as network, sound, mouse, update, dock, launcher, wallpaper, theme, power supply, etc. To sync the settings from the cloud to another computer, just sign in with the same UOS ID on that computer.
-
->![notes](../common/notes.svg) Notes: 
-> a. "Auto Sync" is only available when the system is activated or in trial period.
-> 
-> b. When "Auto Sync" is enabled, you can check the options you want; when it is disabled, all settings will not be synced.
-
-![0|sync](fig/p_sync.png)
-
-
 
 ### Display
 
@@ -696,8 +607,6 @@ Operations are as follows:
 >![notes](../common/notes.svg) Notes: In multiple display mode, the sub-screens also support desktop icon display, right-click menu operation and other functions.
 
 Refer to [Single Screen Settings](#Single Screen Settings) for how to set brightness, color temperature, scaling, resolution, refreshing rate, direction and so on for multiple screens. 
-
-
 
 ### Touch Screen
 
@@ -829,7 +738,7 @@ In extend mode, the dock can be set as "only on main screen" or "on screen where
 
 After login, you need to connect to a network first and then surf the Internet! 
 
->![tips](../common/tips.svg) Tips: Check your network status by clicking the network icon in Dock.
+>![tips](../common/tips.svg) Tips: Check your network status by clicking the network icon in the Dock.
 
 ![0|network](fig/p_network.png)
 
@@ -1033,22 +942,22 @@ Bluetooth helps you make a short-distance wireless communication between Bluetoo
 
 #### Transfer/Receive Files via Bluetooth
 
-Files could be transferred / received via Bluetooth between UnionTech OS PC and non UnionTech OS PC or between UnionTech OS PC and mobile device (mobile phone / tablet).
+Files could be transferred / received via Bluetooth between CRITC OS PC and non CRITC OS PC or between CRITC OS PC and mobile device (mobile phone / tablet).
 
 Prerequisite: the Bluetooth devices of both the sender and the receiver have been paired and connected successfully.
 
-**Transfer files from Bluetooth of UnionTech OS PC**
+**Transfer files from CRITC OS PC**
 
-Usage scenario: sender (UnionTech OS PC) transfers files via Bluetooth to receiver(non UnionTech OS PC / mobile phone / tablet)
+Usage scenario: sender (CRITC OS PC) transfers files via Bluetooth to receiver(non CRITC OS PC / mobile phone / tablet)
 
 1. On the homepage of Control Center, click ![bluetooth_normal](../common/bluetooth_normal.svg).
 2. Switch on **Bluetooth**. The system will scan Bluetooth devices nearby automatically.
 3. Select a paired and connected Bluetooth device in "My Devices". Click **Send Files** (this button will only appear on PC / mobile phone / tablet Bluetooth devices). Select a file to be sent from the popped-up File Manager interface, click **Open**.  
 4. Select the Bluetooth device to receive the files in the pop-up "Bluetooth file transfer" window and click **Send** to send a request. 
 
-**Transfer files from Bluetooth of a mobile phone**
+**Transfer files from a mobile phone**
 
-Usage scenario: sender (taking android phones as an example) transfers files via Bluetooth to receiver(UnionTech OS PC)
+Usage scenario: sender (taking Android phones as an example) transfers files via Bluetooth to receiver(CRITC OS PC)
 
 1. Switch on Bluetooth. The system will scan Bluetooth devices nearby automatically.
 2. Select a paired and connected Bluetooth device.
@@ -1276,7 +1185,7 @@ After connecting to the computer, you can set the pressure sensing force of the 
 
 Set keyboard properties and select your keyboard layout to keep your typing habit. You can also adjust the keyboard layout according to the country and language, set up input method, change system language, and customize shortcuts here.
 
-![0|keyboard](fig/p_keyboard.png)
+![keyboard](fig/p_keyboard.png)
 
 #### Keyboard Properties
 
@@ -1292,7 +1201,6 @@ Set the keyboard layout to customize the keyboard for the current language. When
 
 You have set a keyboard layout during system installation, but you can add more for other purposes. 
 
-![layout](fig/p_layout.png)
 
 ##### Add Keyboard Layout
 
@@ -1374,7 +1282,6 @@ Add multiple languages into the list to change language conveniently.
 
 The shortcut list includes all shortcuts in the system. View, modify and customize the shortcuts here as you want.
 
-![0|shortcut](fig/p_shortcut.png)
 
 ##### View Shortcuts
 
@@ -1403,36 +1310,6 @@ The shortcut list includes all shortcuts in the system. View, modify and customi
 
 >![tips](../common/tips.svg) Tips: To change the shortcut, click it and press a new shortcut to change it directly. To edit the name and command of the custom shortcut, click **Edit** >![edit](../common/edit.svg) near the shortcut name to enter the shortcut settings.
 
-### Assistive Tools
-
-Desktop AI Assistant, Speech to Text, Text to Speech and Translation are available on the Assistive Tools interface.
-
-![0|auxiliary](fig/p_auxiliary_function.png)
-
-#### Desktop AI Assistant
-
-Desktop AI Assistant  boosts your productivity by executing voice commands, such as checking the whether, creating events, etc. 
-
-   - Switch on/off **Voice Wakeup**: when you switch on **Voice Wakeup**, you can check **OneShot** to enable wakeup order + semantic order, for example, "Hello, Xiaohua. What's the weather in Beijing?".
-   - **Language**: Chinese-Mandarin, English
-   - Switch on/off **Show in the Dock**: When it is enabled, Desktop AI Assistant will be displayed in the Dock. Otherwise, it will not be displayed but can be woken up by shortcuts.
-   - **Voice Test**: Test whether the voice input is normal or not.
-
-#### Speech to Text
-
-   - Speech to Text: When there is audio input device available, Speech to Text is enabled by default. Otherwise it is disabled.
-   - Language: It supports both Chinese-Mandarin and English. The default language is Chinese-Mandarin.
-
-#### Text to Speech
-
-   - Text to Speech: When there is audio input device available, Speech to Text is enabled by default. Otherwise it is disabled and hidden.
-   - Show Speech Widget: It is disabled by default and is set not to display the speech widget only but can be woken up by the shortcut.
-   - Voice Gender: It is used to set the voice gender and supports male, female and children with female as default.
-
-#### Translation
-
-   - Translation: It is enabled by default.
-   - Language: It is used to set the translation language and supports both Chinese-English and English-Chinese with Chinese-English as default.
 
 ### Update Settings
 
@@ -1469,8 +1346,6 @@ When there are system updates, it will be notified on the home page of Control C
 4. When there are system updates, they will be automatically downloaded.
 
 >![tips](../common/tips.svg) Tips:  Switch on **Auto Clear Package Cache** to remove the downloaded package caches regularly. 
-
-
 
 
 ### System Info
@@ -1522,7 +1397,7 @@ There are two ways to run the authorization management tool when the system has 
 
 The activation methods of authorization management can be divided into online activation and offline activation, while the online activation methods include "Try Full Version", "Input Serial Number" and "Import License File".
 
->![attention](../common/attention.svg) Attention: Only systems in the trial period or the ones activated successfully can all the functions of UnionTech OS be used normally, otherwise some functions will be limited. 
+>![attention](../common/attention.svg) Attention: Only systems in the trial period or the ones activated successfully can all the functions of CRITC OS be used normally, otherwise some functions will be limited. 
 
 
 ##### On-line Activation
@@ -1537,8 +1412,6 @@ If the system is not activated, you can activate the system by performing the fo
 
 1. Click ![uos1](../common/authorize1.svg) on the tray in the lower right corner to enter the interface.
 
-   ![0|probation1](fig/p_probation1.png)
-
 2. Click **Try Full Version** and go to the activation interface.
 3. Click **Activate Now** and pops up the confirmation dialogue once again. Click **Confirm** to successfully activate the interface and the icon in the dock is changed to ![uos2](../common/authorize2.svg).
 
@@ -1551,10 +1424,9 @@ It is available to view the information such as status, expiration date and so o
 
 1. Click ![uos1](../common/authorize1.svg) on the tray in the lower right corner to enter the interface.
 2. Click **Input Serial Number** to input the correct activation code and click **Activate Now**.
-   >![notes](../common/notes.svg) Notes: UnionTech OS supports both 16-digit and 25-digit serial numbers. 
-
+   
    ![0|activationcode1](fig/p_activationcode1.png)
-
+   
 3. Click **Confirm** in the pop-up confirmation dialogue box and pops up the activation success interface.
 
 
@@ -1580,13 +1452,13 @@ The off-line activation can be adopted when the network connection is abnormal.
 
 2. Scan the QR code with your mobile phone  and the current device ID as well as activation code are displayed in the pop-up activation interface.
 
-   ![0|activateoffline2](fig/activate_offline2.png) 
+   ![0|activateoffline2](fig/activation_offline2.png) 
 
 3. Click **Activate Now** and click **Confirm** in the pop-up confirmation dialogue. 
 
 4. The device ID, activation code and off-line activation code are displayed in the activation success interface.
 
-   ![0|activateoffline3](fig/activate_offline3.png) 
+   ![0|activateoffline3](fig/activation_offline3.png) 
 
 5. Input manually in the input box in PC the off-line activation code in the your mobile phone.
 
@@ -1601,12 +1473,10 @@ The activation success interface shows the information such as product name, ver
 The major information shown includes:
    - Product Name: operation system name
    - Version: operation system version
-   - Activation Status: including unactivated, expired and unactivated, and activated.
-   - Authorization Status: including unauthorized, expired and authorized. 
+   - Activation Status: including unactivated, in trial period, trial expired, activated and expired.
    - Activation Method: it displays your actual activation method.
    - Expiration Date: From the 10th day to expiration date, the system will remind you that the authorization is about to expire.
 
-![0|activationcode3](fig/p_activationcode3.png)
 
 ##### Change Serial Number
 
@@ -1644,7 +1514,7 @@ In order to avoid data loss or damage caused by software defects, hardware damag
 
 #### Backup
 
-UnionTech OS provides backup by initialization and backup through Control Center.
+CRITC OS provides backup by initialization and backup through Control Center.
 
 ##### Backup by Initialization
 
@@ -1673,11 +1543,11 @@ You can backup data through either **Full Backup** or **System Backup** from Con
 
 #### Restore
 
-UnionTech OS supports "restore from grub" and "restore from Control Center".
+CRITC OS supports "restore from grub" and "restore from Control Center".
 
 ##### Restore from Grub
 
-During system startup, in the system selection interface, click **UnionTech OS Restore**, you can choose "Reset to factory settings" to read initial backup during installation, or select "restore from backup files" to open the file directory and select the backup to be restored.
+During system startup, in the system selection interface, click **System Restore**, you can choose "Reset to factory settings" to read initial backup during installation, or select "restore from backup files" to open the file directory and select the backup to be restored.
 
 ##### Restore from Control Center
 
@@ -1689,7 +1559,7 @@ You can either restore all settings or manually restore the previous backup data
       1. You can choose to check **Keep personal files and apps** and click **Restore Now**. Click **Confirm** in the dialogue box pops up. 
       2. Please input the password to authorize the data restoring.
    - Restore from backup files
-      1. After selecting restoring directory, click ![three_dots](fig/three_dots.png) to select the files you want to restore.
+      1. After selecting restoring directory, click ![loadfile](../common/loadfile.svg) to select the files you want to restore.
       2. Click **Restore Now** to start system restoring.
    - Restore from a restore point
 
@@ -1702,7 +1572,7 @@ You can either restore all settings or manually restore the previous backup data
 
 Boot menu is the grub menu for users to select an operating system to start. After selecting and confirming the boot option, your computer will load the system.
 
-> ![notes](../common/notes.svg) Notes: arm architecture only supports grub authentication; mips architecture does not support grub authentication or changing boot menu background picture for now.
+> ![notes](../common/notes.svg) Notes: ARM architecture only supports grub authentication; MIPS architecture does not support grub authentication or changing boot menu background picture for now.
 
 ##### Startup Delay
 
@@ -1732,15 +1602,14 @@ In Developer Mode, you can have root access, perform sudo operation, install and
 
 1. In the homepage of Control Center, click ![general](../common/general.svg).
 2. Click the **Developer Mode** and click the **Enter Developer Mode** Icon.
-   - If you choose the online Mode, please log into your UOS ID first. Read the disclaimer carefully, check **Agree and Enter the Developer Mode** and click **Confirm** after understanding the precautions. The button will be changed to **Having Entered the Developer Mode** after the certificate is issued by the system.
    - If you choose the offline mode, download the certificate according to the prompt. Enter the developer mode after importing the certificate.
-3. Click **Reboot Now** in the pop-up  dialogue and enter the developer mode after rebooting the system.
+3. Click **Reboot Now** in the pop-up dialogue and enter the developer mode after rebooting the system.
 
 >![attention](../common/attention.svg) Attention: You can not exit or undo after you have entered Developer Mode. All accounts will have root access.
 
 #### User Experience Program
 
-When you open User Experience Program, you authorize us to collect and use information about your device, system and applications, which helps to improve the features most frequently used by users and to solve problems encountered during the operation of the syestem, so as to better meet the needs of users and improve user experience.
+When you open User Experience Program, you authorize us to collect and use information about your device, system and applications, which helps to improve the features most frequently used by users and to solve problems encountered during the operation of the system, so as to better meet the needs of users and improve user experience.
 
 In order to make better use of the system, users are recommended to start a user experience program, which can be joined or withdrawn at any time.
 
@@ -1767,7 +1636,6 @@ Window Manager can display different window contents in different workspaces. Wi
 
 ![1|workspace](fig/p_workspace.png)
 
->![notes](../common/notes.svg) Notes: On the touchpad, move with four/five fingers upwards to display multi-task view, and move downwards immediately to hide multi-task view, which corresponds to the operation of **Super** + **S**. 
 
 ### Open Workspace
 
