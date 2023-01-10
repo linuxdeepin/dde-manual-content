@@ -452,17 +452,6 @@ The account full name is shown in account list and system login interface and yo
 
 > ![notes](../common/notes.svg) Notes: After the administrator account expires, you need to change the password before you can perform the authentication operation.
 
-#### Reset Password
-
-If you forget your password and enter the wrong password for five times, the system login screen will trigger the password reset function.
-
-**Prerequisites**: the account is bound to UOS ID.
-
-1. After clicking **Reset Password** button, set mobile phone number/email, new password, repeat password, security questions, get verification code, and click Reset in the pop-up “Reset Password By UOS ID” window.
-2. Click **Confirm and Reset** in the pop-up confirmation dialog box, then you can log in to the system with the new password.
-
-
-
 #### Auto Login
 
 If "Auto Login" is enabled, you can log into the system directly, without inputting a password when the computer reboots or starts next time. But you still have to enter the password after locking or logging out of  the computer.
@@ -1606,18 +1595,6 @@ In Developer Mode, you can have root access, perform sudo operation, install and
 3. Click **Reboot Now** in the pop-up dialogue and enter the developer mode after rebooting the system.
 
 >![attention](../common/attention.svg) Attention: You can not exit or undo after you have entered Developer Mode. All accounts will have root access.
-
-#### User Experience Program
-
-When you open User Experience Program, you authorize us to collect and use information about your device, system and applications, which helps to improve the features most frequently used by users and to solve problems encountered during the operation of the system, so as to better meet the needs of users and improve user experience.
-
-In order to make better use of the system, users are recommended to start a user experience program, which can be joined or withdrawn at any time.
-
-1. On the homepage of Control Center, click ![general](../common/general.svg).
-
-2. Switch on **User Experience Program**, and read the User Experience Program License Agreement.
-
-3. If you agree, check **Agree and Join User Experience Program**, and **Confirm**.
 
 #### Domain Management
 
