@@ -1,8 +1,14 @@
+dde-manual-content (3.0.0) unstable; urgency=medium
+
+  * chore: update manual for DDE 7
+
+ -- zhangkun <zhangkun2@uniontech.com>  Mon, 23 Jun 2025 18:16:09 +0800
+
 dde-manual-content (2.0.0.0) unstable; urgency=medium
 
   * release 2.0.0.0
 
- --  <fanpengcheng@uniontech.com>  Tue, 14 June 2022 16:54:13 +0800
+ -- fanpengcheng <fanpengcheng@uniontech.com>  Tue, 14 June 2022 16:54:13 +0800
 
 dde-manual-content (1.0.0) unstable; urgency=medium
 
