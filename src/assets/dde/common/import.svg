@@ -1,15 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59" height="59" viewBox="0 0 59 59">
-  <defs>
-    <circle id="circlebutton_import-b" cx="23.5" cy="23.5" r="23.5"/>
-    <filter id="circlebutton_import-a" width="146.8%" height="146.8%" x="-23.4%" y="-14.9%" filterUnits="objectBoundingBox">
-      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.17254902   0 0 0 0 0.654901961   0 0 0 0 0.97254902  0 0 0 0.4 0"/>
-    </filter>
-  </defs>
-  <g fill="none" fill-rule="evenodd" transform="translate(6 2)">
-    <use fill="#000" filter="url(#circlebutton_import-a)" xlink:href="#circlebutton_import-b"/>
-    <use fill="#0081FF" xlink:href="#circlebutton_import-b"/>
-    <path fill="#FFF" d="M24,14 L23.9998254,31.363 L30.5710678,24.7928932 L31.2781746,25.5 L23.5,33.2781746 L15.7218254,25.5 L16.4289322,24.7928932 L22.9998254,31.363 L23,14 L24,14 Z"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>circlebutton_import备份 4</title>
+    <defs>
+        <circle id="path-1" cx="24" cy="24" r="24"></circle>
+        <filter x="-22.9%" y="-14.6%" width="145.8%" height="145.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.17254902   0 0 0 0 0.654901961   0 0 0 0 0.97254902  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="桌面版" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="网络5" transform="translate(-1084.000000, -917.000000)">
+            <g id="控制中心备份" transform="translate(0.000000, 1.000000)">
+                <g id="分组-4" transform="translate(739.000000, 60.000000)">
+                    <g id="circlebutton_import备份-4" transform="translate(351.000000, 858.000000)">
+                        <g id="椭圆形">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#0081FF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="icon_import" transform="translate(14.000000, 14.000000)">
+                            <polygon id="矩形" points="0 0 20 0 20 11.8181818 20 20 0 20"></polygon>
+                            <path d="M8,0 L8,2 L2,2 L2,17 L18,17 L18,12 L20,12 L20,19 L0,19 L0,0 L8,0 Z M18.2221825,0.222182541 L19.7778175,1.77781746 L14.555,6.999 L19,7 L19,9 L11,9 L11,1 L13,1 L12.999,5.445 L18.2221825,0.222182541 Z" id="形状结合" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>

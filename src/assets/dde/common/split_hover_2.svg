@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2</title>
+    <g id="2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, 6.000000)" id="矩形" stroke-width="0.5">
+            <rect stroke-opacity="0.1" stroke="#000000" x="0.25" y="0.25" width="35.5" height="23.5" rx="3"></rect>
+            <rect stroke="#CBCBCB" fill-opacity="0.1" fill="#000000" x="1.375" y="1.375" width="16" height="21.25" rx="1.5"></rect>
+            <rect stroke="#CBCBCB" fill-opacity="0.1" fill="#000000" x="18.625" y="1.375" width="16" height="21.25" rx="1.5"></rect>
+        </g>
+    </g>
+</svg>

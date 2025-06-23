@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
-    <title>suspend_normal</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="suspend_normal" fill="#000000">
-            <path d="M9.93966346,8.49986924 C9.93966346,5.29452234 7.80625,2.63285792 5,2.09937438 C5.33341346,2.0363501 5.67524038,2 6.02524038,2 C9.325,2 12,4.91010038 12,8.49986924 C12,12.0898996 9.325,15 6.02524038,15 C5.67524038,15 5.33341346,14.9636499 5,14.9006256 C7.80625,14.3671421 9.93966346,11.7054777 9.93966346,8.49986924" id="Fill-7"></path>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>D/login_suspend48/Normal备份</title>
+    <g id="D/login_suspend48/Normal备份" stroke="none" fill="none" fill-rule="nonzero">
+        <g id="图标与LOGO/单色图标/关机/Suspend大" fill="#000000">
+            <path d="M7.71214555,2.27405876 C7.97145765,2.01303265 7.61853546,1.56078012 7.27217814,1.69131477 C4.00050562,2.90342227 1.66493396,6.0502398 1.66493396,9.74716765 C1.66493396,14.4837108 5.52166953,18.334483 10.2864229,18.334483 C13.9231748,18.334483 17.0403907,16.0874222 18.3041268,12.912633 C18.444542,12.5536627 18.0059263,12.1642661 17.7377858,12.4371139 C15.8333333,14.375 13.75,15 11.25,14.7916667 C7.30977003,14.4633142 5.63598891,11.4037317 5.41666667,8.33333333 C5.26953929,6.27362596 5.625,4.375 7.71214555,2.27405876 Z" id="形状结合" transform="translate(9.9981, 10.0013) scale(-1, 1) translate(-9.9981, -10.0013)"></path>
         </g>
     </g>
 </svg>
