@@ -1,4 +1,4 @@
-# Desktop Environment | DDE |
+# Desktop Environment|dde|
 
 ## Overview
 Deepin Operating System (deepin) is a beautiful, user-friendly, secure, and reliable domestic desktop operating system. It comes pre-installed with native applications such as file manager, app store, image viewer, system monitor, and more. It allows you to experience rich entertainment while meeting daily work needs. With continuous feature upgrades and improvements, Deepin OS has become one of China's most popular desktop operating systems.
