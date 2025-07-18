@@ -1,3 +1,9 @@
+dde-manual-content (3.0.2) unstable; urgency=medium
+
+  * chore: update dde content
+
+ -- zhangkun <zhangkun2@uniontech.com>  Fri, 18 Jul 2025 14:48:04 +0800
+
 dde-manual-content (3.0.1) unstable; urgency=medium
 
   * chore: remove unnecessary spaces
