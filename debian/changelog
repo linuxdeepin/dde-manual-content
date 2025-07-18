@@ -1,3 +1,9 @@
+dde-manual-content (3.0.3) unstable; urgency=medium
+
+  * fix: correct image references and add notification image
+
+ -- zhangkun <zhangkun2@uniontech.com>  Fri, 18 Jul 2025 17:48:04 +0800
+
 dde-manual-content (3.0.2) unstable; urgency=medium
 
   * chore: update dde content
