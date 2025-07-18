@@ -151,7 +151,7 @@
 當有系統或應用通知時，桌面上方會彈出通知訊息。若有按鈕，按一下按鈕執行對應操作；若無按鈕，按一下關閉此訊息。
 
 此外，還可以按一下工作列上的 ![notification](../common/notification.svg)，打開通知中心，查看所有通知。
-![[fig/message.png]]
+![](fig/message.png)
 
 > ![notes](../common/notes.svg) 說明：當使用觸屏電腦時，手指從螢幕右側邊緣劃入超過工作列高度，喚出通知中心。
 

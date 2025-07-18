@@ -437,7 +437,7 @@ Protect privacy during inactivity.
 4. For slideshow: Set image path, interval, randomness.
 5. Enable **Require Password on Wake** for security.
 
-![1|screensaver](fig/screensaver.png)
+![1|screensaver](fig/Screensaver.png)
 
 #### Colors & Icons
 1. Go to **Control Center > Personalization > Colors & Icons**.

@@ -166,7 +166,7 @@
 当有系统或应用通知时，桌面上方会弹出通知消息。若有按钮，单击按钮执行对应操作；若无按钮，单击关闭此消息。
 
 此外，还可以单击任务栏上的 ![notification](../common/notification.svg)， 打开通知中心，查看所有通知。
-![[fig/message.png]]
+![](fig/message.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 > ![notes](../common/notes.svg) 说明：当使用触屏电脑时，手指从屏幕右侧边缘划入超过任务栏高度，唤出通知中心。

@@ -92,13 +92,13 @@
 |------|------|------|------|
 | ![launcher](../common/deepin-launcher.png) | 啟動器 | ![deepin-toggle-desktop](../common/dde-grand-search.png) | 全域搜尋 |
 | ![deepin-toggle-desktop](../common/deepin-multitasking-view.png) | 多工作檢視 | ![dde-file-manager](../common/dde-file-manager.png) | 檔案管理員 |
-| ![[../common/UosAiAssistant.png]] | UOS AI Bar | ![org.deepin.browser](../common/org.deepin.browser.png) | 瀏覽器 |
+| ![UosAiAssistant](../common/UosAiAssistant.png) | UOS AI Bar | ![org.deepin.browser](../common/org.deepin.browser.png) | 瀏覽器 |
 | ![deepin-appstore](../common/deepin-app-store.png) | 應用商店 | ![controlcenter](../common/preferences-system.png) | 控制中心 |
 | ![deepin-appstore](../common/deepin-music.png) | 音樂 | ![deepin-appstore](../common/deepin-editor.png) | 文字編輯器 |
 | ![deepin-appstore](../common/deepin-mail.png) | 郵件 | ![deepin-appstore](../common/deepin-terminal.png) | 終端機 |
 | ![deepin-appstore](../common/dde-calendar.png) | 日曆 | ![deepin-appstore](../common/deepin-calculator.png) | 計算機 |
 | ![notification](../common/notification.svg) | 通知 | ![onboard](../common/onboard.svg) | 螢幕小鍵盤 |
-| ![[dock-control-panel-dark.svg]] | 快速設定 | ![[shutdown-symbolic-dark.svg]] | 電源選項 |
+| ![dock-control-panel](../common/dock-control-panel-dark.svg) | 快速設定 | ![](../common/shutdown-symbolic-dark.svg) | 電源選項 |
 
 ### 切換顯示模式
 兩種模式：傳統模式 (小圖示) 和高效模式 (大圖示)
