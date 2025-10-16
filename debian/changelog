@@ -1,3 +1,9 @@
+dde-manual-content (3.0.4) unstable; urgency=medium
+
+  * fix: remove unused image assets
+
+ -- zhangkun <zhangkun2@uniontech.com>  Thu, 16 Oct 2025 21:05:50 +0800
+
 dde-manual-content (3.0.3) unstable; urgency=medium
 
   * fix: correct image references and add notification image
