@@ -1,3 +1,9 @@
+dde-manual-content (3.0.5) unstable; urgency=medium
+
+  * chore: update dde content
+
+ -- zhangkun <zhangkun2@uniontech.com>  Fri, 07 Nov 2025 10:32:56 +0800
+
 dde-manual-content (3.0.4) unstable; urgency=medium
 
   * fix: remove unused image assets
