@@ -1,3 +1,9 @@
+dde-manual-content (3.0.6) unstable; urgency=medium
+
+  * chore: update dde manual content
+
+ -- zhangkun <zhangkun2@uniontech.com>  Thu, 15 Jan 2026 19:40:37 +0800
+
 dde-manual-content (3.0.5) unstable; urgency=medium
 
   * chore: update dde content
