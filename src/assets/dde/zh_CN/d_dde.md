@@ -169,6 +169,7 @@
 当有系统或应用通知时，桌面上方会弹出通知消息。若有按钮，单击按钮执行对应操作；若无按钮，单击关闭此消息。
 
 此外，还可以单击任务栏上的 ![notification](../common/notification.svg)， 打开通知中心，查看所有通知。
+
 ![](fig/message.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -657,7 +658,7 @@
 
 为避免因软件缺陷、硬件损毁、人为操作不当等因素造成数据缺失或损坏，可以进行应用数据或系统数据的备份还原，以保障系统的正常运行。
 
-![0backuprecovery](fig\p_backuprestore.png)
+![0backuprecovery](fig\d_backup_restore.png)
 
 #### 关于本机
 
