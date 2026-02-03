@@ -171,6 +171,7 @@
 當有系統或應用通知時，桌面上方會彈出通知訊息。若有按鈕，按一下按鈕執行對應操作；若無按鈕，按一下關閉此訊息。
 
 此外，還可以按一下工作列上的 ![notification](../common/notification.svg)，開啟通知中心，檢視所有通知。
+
 ![](fig/message.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1360,7 +1361,8 @@ UOS PC 與非UOS PC 或者 UOS PC 與行動裝置（手機/平板）之間透過
 ##### 版本授權
 
 1. 點選 **啟用** 進入啟用頁面。
-   ![](fig/p_license_activator_0.png)
+
+![](fig/p_license_activator_0.png)
 2. **啟用方式** 分線上啟用（試用期啟用、輸入序號啟用、匯入啟用檔案啟用）和離線啟用。
    1. 試用期啟用
       - 點選 **試用期啟用**，跳轉到啟用介面。
@@ -1368,20 +1370,25 @@ UOS PC 與非UOS PC 或者 UOS PC 與行動裝置（手機/平板）之間透過
       - 系統成功啟用後，可以檢視啟用狀態、試用到期時間等資訊。
    2. 輸入序號啟用
       - 按一下 **輸入序號**，輸入或複製正確的序號，按一下 **立即啟用**。
-        ![](fig/p_license_activator_1.png)
+  
+![](fig/p_license_activator_1.png)
    3. 匯入啟用檔案啟用
       - 按一下 **匯入啟用檔案**，彈出檔案管理員，選擇 .key 格式的啟用檔案。
-      - ![](fig/p_license_activator_2.png)
+  
+![](fig/p_license_activator_2.png)
       - 選擇正確的檔案，按一下 **立即啟用**。
       - 在彈出二次確認框中，按一下 **確定**，彈出啟用成功介面。
 3. **離線啟用**
    - 網路連線異常時，可使用離線啟用。
    - 選擇輸入序號或匯入授權檔案啟用時，系統檢測網路連線異常，則跳轉到離線啟用介面。
-   - ![](fig/p_license_activator_3.png)
+
+![](fig/p_license_activator_3.png)
    - 使用手機掃描二維碼，手機端彈出啟用介面，介面顯示當前機器 ID 及序號。
-   - ![](fig/p_license_activator_4.png)
+
+![](fig/p_license_activator_4.png)
    - 手動將手機端的離線啟用碼輸入電腦端的離線啟用碼輸入框。
-   - ![](fig/p_license_activator_5.png)
+
+![](fig/p_license_activator_5.png)
    - 按一下 **離線啟用**，跳轉到啟用成功介面。
 4. **啟用成功**
    - 系統啟用成功後，右下角托盤不再顯示授權管理圖示，在「控制中心 > 系統資訊 > 關於本機」中，按一下 **檢視** 可以檢視授權管理資訊。
@@ -1393,7 +1400,8 @@ UOS PC 與非UOS PC 或者 UOS PC 與行動裝置（手機/平板）之間透過
      • 授權狀態：分為試用期、未授權、已過期、已授權等。
      • 啟用方式：根據實際啟用方式體現。
      • 到期時間：到期時間前 10 天開始，每次開機進入系統，會彈出系統授權即將到期的提示資訊。
-     ![](fig/p_license_activator_6.png)
+
+![](fig/p_license_activator_6.png)
 5. **更換序號**
    - 當系統啟用成功後，由於某些原因需要變更序號。
    - 有且僅當滿足如下條件時，支援更換序號。

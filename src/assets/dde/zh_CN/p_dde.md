@@ -169,6 +169,7 @@
 当有系统或应用通知时，桌面上方会弹出通知消息。若有按钮，单击按钮执行对应操作；若无按钮，单击关闭此消息。
 
 此外，还可以单击任务栏上的 ![notification](../common/notification.svg)， 打开通知中心，查看所有通知。
+
 ![](fig/message.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -717,10 +718,12 @@
    - 系统成功激活后，可以查看激活状态、试用到期时间等信息。
 2. 输入序列号激活
    - 单击 **输入序列号**，输入或复制正确的序列号，单击 **立即激活**。
-     ![1](fig\p_license_activator_1.png)
+
+![1](fig\p_license_activator_1.png)
 3. 导入激活文件激活
    - 单击 **导入激活文件**，弹出文件管理器，选择 .key 格式的激活文件。
-   - ![](fig\p_license_activator_2.png)
+  
+![](fig\p_license_activator_2.png)
    - 选择正确的文件，单击 **立即激活**。
    - 在弹出二次确认框中，单击 **确定**，弹出激活成功界面。
 
@@ -728,11 +731,14 @@
 
 - 网络连接异常时，可使用离线激活。
 - 选择输入序列号或导入授权文件激活时，系统检测网络连接异常，则跳转到离线激活界面。
-- ![](fig\p_license_activator_3.png)
+
+![](fig\p_license_activator_3.png)
 - 使用手机扫描二维码，手机端弹出激活界面，界面显示当前机器ID及序列号。
-- ![](fig\p_license_activator_4.png)
+
+![](fig\p_license_activator_4.png)
 - 手动将手机端的离线激活码输入电脑端的离线激活码输入框。
-- ![](fig\p_license_activator_5.png)
+
+![](fig\p_license_activator_5.png)
 - 单击 **离线激活**，跳转到激活成功界面。
 
 ###### 激活成功
@@ -748,7 +754,8 @@
   • 授权状态：分为试用期、未授权、已过期、已授权等。  
   • 激活方式：根据实际激活方式体现。  
   • 到期时间：到期时间前 10 天开始，每次开机进入系统，会弹出系统授权即将到期的提示信息。
-  ![ 1](fig\p_license_activator_6.png)
+
+![ 1](fig\p_license_activator_6.png)
 
 ###### 更换序列号
 
