@@ -141,6 +141,11 @@ Place taskbar on any screen edge.
 
 Drag taskbar edge to resize.
 
+### Lock the Dock
+After enabling “Lock the Dock”, the taskbar height will be locked to prevent accidental dragging from changing the taskbar size.
+1. Right-click the taskbar.
+2. Turn the **Lock the Dock** switch on or off.
+
 ### Show/Hide Taskbar
 
 Hide taskbar to maximize desktop space.
@@ -161,7 +166,7 @@ Hide taskbar to maximize desktop space.
 ### Show/Hide Plugins
 
 1. Right-click taskbar > **Taskbar Settings** (opens Control Center).
-2. Under **Plugins**, toggle **Recycle Bin**, **System Monitor**, **Power**, **Show Desktop**, **Onboard**, **Notification Center**, **Time**, **Desktop AI Assistant**, **Screenshot/Recording**, etc.
+2. Under **Plugins**, toggle **Recycle Bin**, **System Monitor**, **Power**, **Show Desktop**, **Onboard**, **Notification Center**, **Time**,  **Screenshot/Recording**, etc.
 
 ### View Notifications
 
@@ -315,6 +320,8 @@ Homepage displays modules for quick access.
 
 Switch modules via left sidebar.
 
+![0|video](fig/dcc.png)
+
 #### Title Bar
 
 Includes back button, search box, main menu, and window controls.
@@ -330,7 +337,7 @@ Includes back button, search box, main menu, and window controls.
 
 Adjust brightness, resolution, orientation, and scaling for optimal viewing.
 
-![0|video](fig/d_display.png)
+![0|video](fig/display.png)
 
 ##### Single Display Settings
 
@@ -460,7 +467,7 @@ Optimize input/output devices (speakers, microphones).
 
 Configure "Do Not Disturb" mode and app-specific notifications.
 
-![0sound](fig\d_notification.png)
+![0sound](fig\notification.png)
 
 ##### System Notifications
 
@@ -618,7 +625,7 @@ Menu for selecting OS at startup.
 
 Back up/restore app or system data against data loss.
 
-![0|backup-recovery](fig/d_backup_restore.png)
+![0|backup-recovery](fig/backup_restore.png)
 
 #### About This PC
 
@@ -745,7 +752,7 @@ View MAC/IP/gateway info.
 
 Customize system theme, accent color, fonts, window effects, opacity, icons, cursors, and more.
 
-![](fig/d_personalise.png)
+![](fig/personalise.png)
 
 #### Set Window Theme
 
@@ -769,8 +776,10 @@ Configure taskbar mode/position/state/plugins.
 2. Adjust:
    - **Mode**: Classic/Centered.
    - **Size**: Drag slider.
+   - **Lock the Dock**：lock the taskbar height and prevent accidental dragging from changing the taskbar size.
    - **Position**: Top/Bottom/Left/Right.
    - **Status**: Always Show/Always Hide/Smart Hide.
+   - **Combine app icons**：set whether multiple windows of the same app are combined into a single taskbar icon.
    - **Plugins**: Toggle visibility.
 
 In multi-screen **Extend** mode, choose taskbar display: **Follow Mouse** or **Primary Screen Only**.
@@ -778,6 +787,8 @@ In multi-screen **Extend** mode, choose taskbar display: **Follow Mouse** or **P
 #### Window Effects
 
 Hardware-dependent visual enhancements.
+
+![](fig/windoweffect.png)
 
 1. Go to **Control Center > Personalization > Window Effects**.
 2. Configure:
@@ -795,12 +806,12 @@ Hardware-dependent visual enhancements.
 
 Personalize your desktop.
 
+![](fig/wallpaper.png)
+
 1. Right-click desktop > **Set Wallpaper**.
 2. Choose from **My Pictures**, **System Wallpapers**, or **Solid Colors**.
 3. Click a wallpaper to apply.
 4. Right-click wallpaper > **Set as Lock Screen**.
-
-![](fig/wallpaper.png)
 
 > ![tips](../common/tips.svg) Tips:
 > - Set auto-rotate interval under **Auto Switch Wallpaper**.
@@ -810,13 +821,13 @@ Personalize your desktop.
 
 Protect privacy during inactivity.
 
+![1|screensaver](fig/screensaver.png)
+
 1. Go to **Control Center > Personalization > Screensaver**.
 2. Choose **Picture Slideshow** or **System Screensavers**.
 3. Set idle time to activate.
 4. For slideshow: Click **Settings** to set path/interval/random order.
 5. Enable **Require Password on Wake** for security.
-
-![1|screensaver](fig/screensaver.png)
 
 #### Color & Icons
 
@@ -831,9 +842,9 @@ Protect privacy during inactivity.
 1. Go to **Control Center > Personalization > Fonts & Sizes**.
 2. Set system font and size.
 
-### Device
+### Bluetooth and Devices
 
-#### Bluetooth Settings
+#### Bluetooth
 
 Wirelessly connect keyboards, mice, headphones, speakers.
 
@@ -843,14 +854,14 @@ Wirelessly connect keyboards, mice, headphones, speakers.
 
 ##### Rename Bluetooth Device
 
-1. Go to **Control Center > Devices > Bluetooth**.
+1. Go to **Control Center > Bluetooth and Devices > Bluetooth**.
 2. Click **Edit** next to device name, enter new name.
 
 > ![notes](../common/notes.svg) Note: Renaming requires re-pairing on other devices.
 
 ##### Connect Bluetooth Device
 
-1. Go to **Control Center > Devices > Bluetooth**.
+1. Go to **Control Center > Bluetooth and Devices > Bluetooth**.
 2. Toggle **Bluetooth** on; scans nearby devices.
 3. Click a device; enter PIN if required.
 4. Connected devices appear under **My Devices**.
@@ -862,7 +873,7 @@ Wirelessly connect keyboards, mice, headphones, speakers.
 
 **From UOS PC**:
 
-1. Go to **Control Center > Devices > Bluetooth**.
+1. Go to **Control Center > Bluetooth and Devices > Bluetooth**.
 2. Select a paired device > **More** > **Send File**.
 3. Choose file > **Open** > **Send**.
 
@@ -878,7 +889,7 @@ Wirelessly connect keyboards, mice, headphones, speakers.
 2. Files save to `~/Downloads` on accept.
 3. Transfers fail if receiver declines, times out, or disconnects.Failed transfers show in a list.
 
-#### Mouse & Touchpad
+#### Mouse and Touchpad
 
 Customize input devices for better ergonomics.
 
@@ -886,7 +897,7 @@ Customize input devices for better ergonomics.
 
 ##### General Settings
 
-1. Go to **Control Center > Devices > Mouse & Touchpad**.
+1. Go to **Control Center > Bluetooth and Devices > Mouse and Touchpad**.
 2. Under **General**:
    - Adjust **Scrolling Speed**.
    - Adjust **Double-Click Speed**.
@@ -896,15 +907,20 @@ Customize input devices for better ergonomics.
 
 ##### Mouse Settings
 
-1. Go to **Control Center > Devices > Mouse & Touchpad > Mouse**.
+![0|mouse](fig/mouse.png)
+
+1. Go to **Control Center > Bluetooth and Devices > Mouse and Touchpad > Mouse**.
 2. Adjust **Pointer Speed**.
-3. Toggle **Mouse Acceleration** (improves precision at high speeds).
-4. Enable **Disable Touchpad When Mouse Connected** (if available).
-5. Toggle **Natural Scrolling** (reverse scroll direction).
+3. In **Pointer Size** section, click to select Small / Medium / Large to adjust the cursor size.
+4. Toggle **Mouse Acceleration** (improves precision at high speeds).
+5. Enable **Disable Touchpad When Mouse Connected** (if available).
+6. Toggle **Natural Scrolling** (reverse scroll direction).
 
 ##### Touchpad Settings
 
 Configure pointer speed, natural scrolling, and "Disable When Typing" (laptops).
+
+![0|mouse](fig/touchpad.png)
 
 ###### Gesture Settings
 
@@ -934,7 +950,7 @@ Configure keyboard properties, input methods, and shortcuts.
 
 ##### Keyboard Properties
 
-1. Go to **Control Center > Devices > Keyboard**.
+1. Go to **Control Center > Bluetooth and Devices > Keyboard**.
 2. Under **General**:
    - **Repeat Delay/Repeat Rate**: Drag sliders.
    - Test in input box.
@@ -946,7 +962,7 @@ Manage input methods and switching shortcuts.
 
 ###### Add Input Method
 
-1. Go to **Control Center > Devices > Keyboard > Input Methods**.
+1. Go to **Control Center > Bluetooth and Devices > Keyboard > Input Methods**.
 2. Click **Add Input Method**:
    - **Find more in app store**: Download from App Store (auto-sets as default).
    - Choose from list.
@@ -977,12 +993,12 @@ Add/remove layouts for character mapping.
 
 **Add Layout**
 
-1. Go to **Control Center > Devices > Keyboard > Keyboard Layout**.
+1. Go to **Control Center > Bluetooth and Devices > Keyboard > Keyboard Layout**.
 2. Click **Add New Keyboard Layout** > select layout.
 
 **Delete Layout**
 
-1. Go to **Control Center > Devices > Keyboard > Keyboard Layout**.
+1. Go to **Control Center > Bluetooth and Devices > Keyboard > Keyboard Layout**.
 2. Click **Edit**.
 3. Click **Delete** ![delete](../common/delete.svg) for a layout.
 
@@ -1012,7 +1028,7 @@ Browse or search default shortcuts.
 
 Configure connected touchscreens.
 
-1. Go to **Control Center > System > Touchscreen**.
+1. Go to **Control Center > Bluetooth and Devices > Touchscreen**.
 2. Adjust settings and click **OK**.
 
 #### Graphics Tablet
@@ -1021,11 +1037,11 @@ Configure pressure sensitivity for drawing tablets (requires hardware).
 
 > ![notes](../common/notes.svg) Note: Module appears only when connected.
 
-1. Go to **Control Center > Devices > Graphics Tablet**.
+1. Go to **Control Center > Bluetooth and Devices > Graphics Tablet**.
 2. Select **Pen** mode.
 3. Adjust **Pressure Sensitivity**.
 
-### Power Management
+### Power
 
 Optimize battery usage and system security.
 
@@ -1033,12 +1049,12 @@ Optimize battery usage and system security.
 
 #### Adjust Performance Mode
 
-1. Go to **Control Center > Power Management > General**.
+1. Go to **Control Center > Power > General**.
 2. Choose **Balanced**, **High Performance**, or **Power Saver**.
 
 #### Power Saving Settings
 
-1. Go to **Control Center > Power Management > General**.
+1. Go to **Control Center > Power > General**.
 2. Configure:
    - **Auto Power Saving on Low Battery** (laptops only).
    - Set **Low Battery Threshold**.
@@ -1047,52 +1063,52 @@ Optimize battery usage and system security.
 
 #### Wake Settings
 
-1. Go to **Control Center > Power Management > General**.
+1. Go to **Control Center > Power > General**.
 2. Under **Wake Settings**:
    - **Require password on suspend wake**.
    - **Require password on display wake**.
 
 #### Shutdown Settings
 
-1. Go to **Control Center > Power Management > General**.
+1. Go to **Control Center > Power > General**.
 2. Under **Shutdown Settings**:
    - Set **Scheduled Shutdown** time.
    - Choose frequency: Once, Weekdays, Daily, or Custom.
 
 #### Set Monitor Off Time
 
-1. Go to **Control Center > Power Management > Plugged In** or **On Battery**.
+1. Go to **Control Center > Power > Plugged In** or **On Battery**.
 2. Set **Turn Off the Monitor After**.
 
 > ![notes](../common/notes.svg) Note: Laptops can set different times for AC/battery.
 
 #### Set Suspend Time
 
-1. Go to **Control Center > Power Management > Plugged In** or **On Battery**.
+1. Go to **Control Center > Power > Plugged In** or **On Battery**.
 2. Set **Suspend After**.
 
 > ![tips](../common/tips.svg) Tip: Enable **Suspend When Lid Closed** for laptops.
 
 #### Set Auto Lock Time
 
-1. Go to **Control Center > Power Management > Plugged In** or **On Battery**.
+1. Go to **Control Center > Power > Plugged In** or **On Battery**.
 2. Set **Lock Screen After**.
 
 #### Set Lid Close Action
 
-1. Go to **Control Center > Power Management > Plugged In** or **On Battery**.
+1. Go to **Control Center > Power > Plugged In** or **On Battery**.
 2. Set **When Lid is Closed** to **Suspend**, **Hibernate**, **Turn Off the Monitor**, or **Do Nothing**.
 
 > ![notes](../common/notes.svg) Note: Laptops only.
 
 #### Set Power Button Action
 
-1. Go to **Control Center > Power Management > Plugged In** or **On Battery**.
+1. Go to **Control Center > Power > Plugged In** or **On Battery**.
 2. Set **When Power Button Pressed** to **Shut Down**, **Suspend**, **Hibernate**, **Turn Off the Monitor**, **Show the Shutdown Interface**, or **Do Nothing**.
 
 #### Low Battery Management
 
-1. Go to **Control Center > Power Management > On Battery**.
+1. Go to **Control Center > Power > On Battery**.
 2. Under **Low Battery Management**:
    - Enable **Low Battery Notification** (notifies below threshold).
    - Set auto-suspend/hibernate on low battery.
@@ -1102,7 +1118,7 @@ Optimize battery usage and system security.
 
 #### Battery Management
 
-1. Go to **Control Center > Power Management > On Battery**.
+1. Go to **Control Center > Power > On Battery**.
 2. Under **Battery Management**:
    - Toggle **Display Remaining Usage/Charging Time** on taskbar.
    - View maximum battery capacity.
@@ -1111,7 +1127,7 @@ Optimize battery usage and system security.
 
 Modify accounts or create new ones.
 
-![0|account](fig/d_account.png)
+![0|account](fig/account.png)
 
 #### Create Account
 
@@ -1197,6 +1213,21 @@ Enable **Auto Sync** to backup settings (sound/power/mouse/etc.) to cloud. Log i
 
 ![0|sync](fig/d_sync.png)
 
+### Privacy and Security
+
+- In the **Privacy and Security** interface, you can set permissions for applications to access the camera, files, and folders. By default, all applications can access the camera, files, and folders; For the Files and Folders modules, the system currently supports permission control for the "Pictures"  and "Documents" folders.
+- When the permission is enabled, the application can access relevant permissions normally; when the permission is turned off, the application  will not be able to access the relevant permissions, and the system will prompt you to go to the Control Center - Privacy and Security modules to entable the permissions, or ignore it.
+
+![](fig/PrivacyandSecurity.png)
+
+#### Camera
+
+- Supports managing the access permission of a single application to the camera, click ![](../common/normal.svg)to close the permission, or click ![](../common/un.svg)to reopen the permission.
+
+#### Files and Folders
+
+- Supports managing the access permissions of a single application to the "Pictures"  and "Documents" folders separately , click ![](../common/normal.svg)to close the permission, or click ![](../common/un.svg)to reopen the permission.
+
 ### System Updates
 
 Enable repository updates (**System Updates**/**Security Updates**) for auto-download/notifications.
@@ -1204,6 +1235,8 @@ Enable repository updates (**System Updates**/**Security Updates**) for auto-dow
 Update alerts appear in Control Center sidebar. Click **System Updates** > **Check for Updates** to download/install.
 
 > ![tips](../common/tips.svg) Tip: Disable **Update Reminder** in settings to hide notifications.
+
+![0|update](fig/update.png)
 
 #### Update & Upgrade
 
@@ -1249,4 +1282,124 @@ View changelogs after checking updates.
 
 Click **View Update History** to see installed versions/changelogs.
 
+## Window Manager
 
+Window Manager can display different window contents in different workspaces. With the Window Manager, you can use multiple desktops at the same time to manage desktop windows in groups.
+
+> ![notes](../common/notes.svg) Notes: this function is available only when **Window Effect** is turned on in **Control Center** > **Personalization** > **General** . 
+
+![1|workspace](fig/p_workspace.png)
+
+> ![notes](../common/notes.svg) Notes: On the touchpad, move with four/five fingers upwards to display multi-task view, and move downwards immediately to hide multi-task view, which corresponds to the operation of **Super** + **S**. 
+
+### Open Workspace
+
+Workspace manages your desktop windows in different groups. Your work area could be enlarged by dividing the workspace.
+
+On the desktop, press **Super** + **S** or click ![multitasking](../common/deepin-multitasking-view.svg) to open the workspace interface.
+
+> ![notes](../common/notes.svg) Notes: If you are using a computer equipped with a touchscreen, slide in from the bottom of the screen exceeding the dock's height to open Workspace.
+
+### Add Workspace
+
+On the workspace interface, you can add workspace in the following ways:
+
+- Click **+** in the upper right corner of workspace.
+- Press **Alt** + **+** on the keyboard.
+
+> ![notes](../common/notes.svg) Notes: When the workspace number has reached its limit **six**, you cannot add more workspaces. 
+
+### Switch Workspace
+
+On the workspace interface and desktop, you can switch workspace in the following ways:
+
+- On the desktop, press  **Super**+ ![Left](../common/Left.svg) / ![Right](../common/Right.svg) to switch to Previous/Next workspace.
+- On the desktop, press  **Super** + Numeric keys (one to six)  to switch to a specified workspace.
+- On the workspace interface, scroll up or down to switch to Previous/Next workspace.
+- On the workspace interface, click the preview window to switch to a specified workspace.
+
+> ![notes](../common/notes.svg) Notes: On the touchpad, move with four/five fingers to the left/right to switch to the previous or next workspace, which corresponds to the operation of **Super** + **Left** or **Super** + **Right**. 
+
+> ![tips](../common/tips.svg) Tips: You can adjust workspace's position by dragging in the workspace interface.
+
+### Delete Workspace
+
+After deleting a workspace, all windows in the workspace will be moved to a nearby workspace. You cannot delete the workspace when there is only one.
+
+- On the workspace interface, click the ![close](../common/close_icon.svg) to delete a workspace.
+- On the workspace interface, press **Alt** + **-** to delete a workspace.
+- Drag a workspace upward outside the screen to delete it.
+
+### Exit Workspace
+
+After finishing the operations on the workspace interface, you can quit in the following ways:
+
+- Press **Esc**.
+- Click the blank area outside the current workspace interface.
+- Press **Super** + **S** again.
+
+#### Move Windows Among Workspaces
+
+Move the windows to another workspace in the following ways:
+
+- On the workspace interface, drag and drop the window to the specified workspace.
+- On the desktop, press  **Super**+ **Shift** + ![Left](../common/Left.svg) / ![Right](../common/Right.svg) to move the current window to the Previous/Next workspace.
+- On the desktop, press  **Super** + **Shift** + Numeric Keys to move the current window to the workspace in the corresponding order.
+- On the desktop, press  **Alt** + **Space** or right-click the window title bar to open the window menu, and select **Always on Visible Workspace** or **Move to Workspace Left/Right** to move the current window to the specified workspace.
+
+> ![tips](../common/tips.svg) Tips: In the window menu, you can also minimize, maximize, move, resize, top or close the window.
+
+### Switch Desktop Windows
+
+Switch desktop windows in the current workspace as below.
+
+#### Fast Switch Between Nearby Windows
+
+On the desktop, press  **Alt** + **Tab** at the same time and release, to switch between the current window and the nearby window quickly;
+On the desktop, press **Alt** + **Shift** + **Tab** at the same time and release, to fast switch between current window and the nearby window reversely;
+
+#### Fast Switch Between Windows of the Same Type
+
+On the desktop, press **Alt** +  ![~](../common/~.svg)  at the same time and release, to switch between the current window and other windows of the same type quickly;
+On the desktop, press  **Alt** + **Shift** + ![~](../common/~.svg) at the same time and release, to fast switch between current window and other windows in same type reversely;
+
+#### Switch Among All Windows
+
+On the desktop, press and hold **Alt** and press **Tab** continually and it will show the right windows one by one; 
+On the desktop, press and hold **Alt** + **Shift** and press **Tab** continually and it will show the left windows one by one.
+
+#### Switch Among Windows of the Same Type
+
+On the desktop, press and hold **Alt** and press ![~](../common/~.svg) continually and it will show the same type of windows towards the right one by one; on the desktop, press and hold **Alt** + **Shift** and press ![~](../common/~.svg) continually and it will show the same type of windows towards the left one by one.
+
+### Split Screen
+
+With split screen, multiple applications and tasks are displayed simultaneously, which  improves your work and learning efficiency by not only making full use of the space of the large screen, but also reducing frequent switching between multiple application windows.
+
+#### Enter Split Screen
+
+1. Drag the window to the left or right part of the screen until the cursor touches the screen edge and the white transparent background appears, drop the window and it will be adsorbed on the left or right half of the screen.
+
+> ![notes](../common/notes.svg) Notes: When the application supports split screen, hover the cursor on the Maximize/Restore button in the application window, and select ![split_screen](../common/split_hover_2.svg) in the pop-up menu to enter the split screen.
+
+2. In the screen of which the other half is unoccupied, a preview of all other windows will appear. Click one of them to display it on the this half of the screen to realize split screen browsing. You can also drag other windows to both sides of the screen to add windows on split screen.
+
+> ![tips](../common/tips.svg) Tips: To cancel split screen, just drag a window away from the screen edge.
+
+In split screen under multiple display mode, the system supports matching split screen windows on the same screen. On the opposite, it does not support cross screen matching of split screen windows.
+
+#### Adjust Window Positions
+
+When browsing on split screen, once the center of the moving window crosses the center line of the split screen area, the other window will automatically switch to the position of the moving window on the split screen. Release the moving window, and it will fill the vacant position on the split screen.
+
+#### Adjust Window Sizes
+
+When browsing on split screen, move the cursor to the connection between the two windows in the middle of the screen and drag left and right to modify the width of both windows at the same time.
+
+> ![notes](../common/notes.svg) Notes: When you can't drag the window anymore in a certain direction, the cursor will indicate other draggable directions.
+
+#### Exit Split Screen
+
+- Click max or close button of any current window, it will exit split screen, and the remaining windows stay in split screen.
+- When there are two windows in split screen, drag any one to the top of the screen to trigger fullscreen, and the current window exits split screen, the other one remains in split screen.
+- Drag any window away from the connection between the windows.
