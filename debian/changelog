@@ -1,3 +1,9 @@
+dde-manual-content (3.0.8) unstable; urgency=medium
+
+  * chore: update content
+
+ -- zhangkun <zhangkun2@uniontech.com>  Fri, 13 Mar 2026 11:11:09 +0800
+
 dde-manual-content (3.0.7) unstable; urgency=medium
 
   * docs: fix image paths and formatting in Chinese documentation
