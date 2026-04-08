@@ -1,4 +1,4 @@
-# Desktop Environment|DDE
+# Desktop Environment|dde|
 
 ## Overview
 
