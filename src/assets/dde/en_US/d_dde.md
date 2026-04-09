@@ -343,14 +343,14 @@ Adjust brightness, resolution, orientation, and scaling for optimal viewing.
 
 Adjust brightness, resolution, refresh rate, and orientation.
 
-###### Adjust Brightness
+**Adjust Brightness**
 
 *Available if hardware supports.*
 
 1. Go to **Control Center > System > Display**.
 2. Drag the brightness slider.
 
-###### Set Screen Scaling
+**Set Screen Scaling**
 
 Resize oversized/undersized displays.
 
@@ -363,32 +363,32 @@ Resize oversized/undersized displays.
 > - High-DPI screens auto-adjust scaling.
 > - For apps incompatible with scaling, right-click in Launcher > **Disable Scaling**.
 
-###### Change Resolution
+**Change Resolution**
 
 1. Go to **Control Center > System > Display**.
 2. Select a resolution from the dropdown.
 3. Click **Save**.
 
-###### Set Desktop Display
+**Set Desktop Display**
 
 *Available at non-recommended resolutions.*
 
 1. Go to **Control Center > System > Display**.
 2. Choose a display effect under **Desktop Display**.
 
-###### Set Refresh Rate
+**Set Refresh Rate**
 
 1. Go to **Control Center > System > Display**.
 2. Select a refresh rate.
 3. Click **Save**.
 
-###### Change Orientation
+**Change Orientation**
 
 1. Go to **Control Center > System > Display**.
 2. Select an orientation.
 3. Click **Save**.
 
-###### Set Eye Comfort Mode
+**Set Eye Comfort Mode**
 
 *Available if hardware supports.*
 
@@ -455,7 +455,7 @@ Optimize input/output devices (speakers, microphones).
 2. Click **System Sounds**.
 3. Toggle event sounds (e.g., login, logout).
 
-> ![ ](..\common\tips.svg) Tip: Click to preview sounds.
+> ![ ](..\common\tips.svg) Tip: You can click the play button to preview sounds.
 
 ##### Device Management
 
@@ -593,17 +593,17 @@ Menu for selecting OS at startup.
 
 > ![notes](../common/notes.svg) Note: ARM systems support only GRUB verification; MIPS systems lack GRUB/background support.
 
-###### Set Default Boot Entry
+**Set Default Boot Entry**
 
 1. Go to **Control Center > System > Boot Menu**.
 2. Select an entry > enter password to set as default.
 
-###### Set Boot Delay
+**Set Boot Delay**
 
 - **On**: 5-second wait.
 - **Off**: 1-second wait.
 
-###### Theme
+**Theme**
 
 1. Go to **Control Center > System > Boot Menu**.
 2. Toggle **Theme** on to enable themed boot screen.
@@ -732,14 +732,6 @@ Secure encrypted connections for remote access.
 2. Toggle **System Proxy** on.
 3. Choose **Manual** (enter server/port) or **Auto** (enter configuration URL).
 4. Click **Save**.
-
-#### Application Proxy
-
-1. Go to **Control Center > Network > Application Proxy**.
-2. Set proxy type, IP, port, etc.
-3. Click **Save**.
-
-> ![notes](../common/notes.svg) Note: After setup, right-click app icons in launcher > **Use Proxy**.
 
 #### Network Details
 
@@ -922,7 +914,7 @@ Configure pointer speed, natural scrolling, and "Disable When Typing" (laptops).
 
 ![0|mouse](fig/touchpad.png)
 
-###### Gesture Settings
+**Gesture Settings**
 
 Assign actions to touchpad gestures.
 
@@ -960,7 +952,7 @@ Configure keyboard properties, input methods, and shortcuts.
 
 Manage input methods and switching shortcuts.
 
-###### Add Input Method
+**Add Input Method**
 
 1. Go to **Control Center > Bluetooth and Devices > Keyboard > Input Methods**.
 2. Click **Add Input Method**:
@@ -969,25 +961,25 @@ Manage input methods and switching shortcuts.
 
 > ![notes](../common/notes.svg) Note: Removed input methods can be re-added.
 
-###### Reorder Input Methods
+**Reorder Input Methods**
 
 Drag input methods up/down in the list.
 
-###### Configure Input Method
+**Configure Input Method**
 
 Click **Settings**  next to an input method.
 
-###### Set Switching Shortcut
+**Set Switching Shortcut**
 
 Under **Shortcuts**, choose a key combo from dropdown.
 
 > ![notes](../common/notes.svg) Note: More shortcuts in **Advanced Settings**.
 
-###### Advanced Settings
+**Advanced Settings**
 
 Go to **Advanced Settings** for global input method configurations.
 
-###### Keyboard Layout
+**Keyboard Layout**
 
 Add/remove layouts for character mapping.
 
@@ -1006,18 +998,18 @@ Add/remove layouts for character mapping.
 
 View/modify/customize system, window, and workspace shortcuts.
 
-###### View Shortcuts
+**View Shortcuts**
 
 Browse or search default shortcuts.
 
-###### Modify Shortcut
+**Modify Shortcut**
 
 1. Click a shortcut.
 2. Press new keys.
 3. Use **Backspace** to disable or **Esc** to cancel.
 4. Click **Restore Default** to reset.
 
-###### Custom Shortcut
+**Custom Shortcut**
 
 1. Click **Add Custom Shortcut**.
 2. Enter name, command, and shortcut keys.
