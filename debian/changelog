@@ -1,3 +1,9 @@
+dde-manual-content (3.0.10) unstable; urgency=medium
+
+  * docs: update documentation formatting and content
+
+ -- zhangkun <zhangkun2@uniontech.com>  Fri, 10 Apr 2026 10:23:37 +0800
+
 dde-manual-content (3.0.9) unstable; urgency=medium
 
   * fix: correct DDE help manual format for proper recognition
