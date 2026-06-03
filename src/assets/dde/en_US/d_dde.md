@@ -76,7 +76,7 @@ Access display settings quickly via the desktop right-click menu.
 1. Right-click desktop.
 2. Click **Display Settings** to open Control Center’s display settings.
 
-> ![notes](../common/notes.svg) Note: See [Display Settings](#Display-Settings) for details.
+> ![notes](../common/notes.svg) Note: See [Display Settings](p_dde.md#Display) for details.
 
 ### Clipboard
 
@@ -402,7 +402,7 @@ Resize oversized/undersized displays.
 
 Extend your workspace using VGA/HDMI/DP cables.
 
-![multi](fig/d_displayMulti.png)
+![multi](fig/p_displayMulti.png)
 
 1. Go to **Control Center > System > Display**.
 2. Under **Multi-Screen Display**, choose:
@@ -422,6 +422,16 @@ Press **Super** + **P** to toggle multi-display OSD:
 > ![notes](../common/notes.svg) Note: Secondary screens support desktop icons and right-click menus.
 
 Brightness, scaling, resolution, etc., settings match single-display setup. See [Single Display Settings](#single-display-settings).
+
+**Concat Screen**
+
+In Extend mode, when multiple displays are arranged in a rectangular layout, you can enable Concat Screen. This feature combines multiple physical displays into a continuous logical display area for seamless single-desktop viewing.
+
+1. In Multi-Screen Display area, select **Extend** mode.
+2. Adjust screen layout to ensure displays form a rectangular arrangement.
+3. Enable **Concat Screen** toggle.
+
+> ![notes](../common/notes.svg) Note: In Concat Screen mode, brightness adjustment remains available, but screen dragging, resolution, refresh rate, orientation, and scaling settings are disabled. The system automatically exits Concat Screen mode when hot-plugging displays or switching multi-display modes.
 
 #### Sound
 

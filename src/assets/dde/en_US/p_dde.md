@@ -76,7 +76,7 @@ Access display settings quickly via the desktop right-click menu to configure sc
 1. Right-click on the desktop.
 2. Click **Display Settings** to enter the control center's display settings interface.
 
-> ![notes](../common/notes.svg) Note: For detailed display settings, refer to [Display Settings](#display-settings).
+> ![notes](../common/notes.svg) Note: For detailed display settings, refer to [Display Settings](#Display).
 
 ### Clipboard
 
@@ -418,6 +418,16 @@ Press **Super** + **P** to toggle multi-display OSD:
 
 Brightness, scaling, resolution, etc., settings match single-display setup. See [Single Display Settings](#single-display-settings).
 
+**Concat Screen**
+
+In Extend mode, when multiple displays are arranged in a rectangular layout, you can enable Concat Screen. This feature combines multiple physical displays into a continuous logical display area for seamless single-desktop viewing.
+
+1. In Multi-Screen Display area, select **Extend** mode.
+2. Adjust screen layout to ensure displays form a rectangular arrangement.
+3. Enable **Concat Screen** toggle.
+
+> ![notes](../common/notes.svg) Note: In Concat Screen mode, brightness adjustment remains available, but screen dragging, resolution, refresh rate, orientation, and scaling settings are disabled. The system automatically exits Concat Screen mode when hot-plugging displays or switching multi-display modes.
+
 #### Sound
 
 Optimize input/output devices (speakers, microphones).
@@ -617,9 +627,7 @@ Enable developer mode for root access and unsigned apps.
 Grants `sudo` privileges. Void warranty; use cautiously.
 
 1. Go to **Control Center > System > Developer Options**.
-2. Click **Enter Developer Mode**:
-   - **Online**: Log in with UOS ID > accept disclaimer > authenticate > reboot.
-   - **Offline**: Download/import certificate > authenticate > reboot.
+2. Click **Enter Developer Mode**: In Control Center, select **System** in the sidebar. Go to **Developer Options** and click **Enter Developer Mode**. In the authentication dialog, enter your credentials. After authentication, Developer Mode is enabled.
 
 > ![attention](../common/attention.svg) Warning: Irreversible; all accounts gain root access.
 
