@@ -1,3 +1,9 @@
+dde-manual-content (3.0.11) unstable; urgency=medium
+
+  * docs(dde): add concat screen docs and update developer mode
+
+ -- zhangkun <zhangkun2@uniontech.com>  Thu, 04 Jun 2026 19:33:01 +0800
+
 dde-manual-content (3.0.10) unstable; urgency=medium
 
   * docs: update documentation formatting and content
