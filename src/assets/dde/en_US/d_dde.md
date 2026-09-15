@@ -631,6 +631,8 @@ Menu for selecting OS at startup.
 1. Go to **Control Center > System > Developer Options**.
 2. Under **Debug Options**, set **System Log Level** to **Debug** for verbose logs (default: Off).
 
+You can also turn **Solid System Read-Only Protection** on or off in this section. Turning it off unlocks system directories and may damage the system, so proceed with caution.
+
 #### Backup & Restore
 
 Back up/restore app or system data against data loss.
