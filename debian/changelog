@@ -1,3 +1,9 @@
+dde-manual-content (3.0.13) unstable; urgency=medium
+
+  * docs(dde): add solid system read-only protection guide
+
+ -- zhangkun <zhangkun2@uniontech.com>  Tue, 22 Sep 2026 20:47:37 +0800
+
 dde-manual-content (3.0.12) unstable; urgency=medium
 
   * chore: Sync by
