@@ -432,7 +432,7 @@ In Extend mode, when multiple displays are arranged in a rectangular layout, you
 
 Optimize input/output devices (speakers, microphones).
 
-![0sound](fig\sound.png)
+![0sound](fig/sound.png)
 
 ##### Output Settings
 
@@ -452,7 +452,7 @@ Optimize input/output devices (speakers, microphones).
    - Enable **Noise Suppression**.
    - Select input device.
 
-> ![tips](..\common\tips.svg) Tip: Test microphone at normal volume; avoid distor.
+> ![tips](../common/tips.svg) Tip: Test microphone at normal volume; avoid distor.
 
 ##### System Sounds
 
@@ -460,7 +460,7 @@ Optimize input/output devices (speakers, microphones).
 2. Click **System Sounds**.
 3. Toggle event sounds (e.g., login, logout).
 
-> ![tips](..\common\tips.svg) Tip: You can click the play button to preview sounds.
+> ![tips](../common/tips.svg) Tip: You can click the play button to preview sounds.
 
 ##### Device Management
 
@@ -472,7 +472,7 @@ Optimize input/output devices (speakers, microphones).
 
 Configure "Do Not Disturb" mode and app-specific notifications.
 
-![0sound](fig\notification.png)
+![0sound](fig/notification.png)
 
 ##### System Notifications
 
@@ -495,7 +495,7 @@ Customize per-app alerts.
 
 Set time zoshijine, sync automatically, or configure manually.
 
-![](fig\time.png)
+![](fig/time.png)
 
 ##### Modify Time/Date
 
@@ -530,7 +530,7 @@ View multiple time zones.
 
 Add/switch system languages and regional formats.
 
-![](fig\language.png)
+![](fig/language.png)
 
 ##### Add System Language
 
@@ -593,7 +593,7 @@ Manage boot options and theme.
 
 Menu for selecting OS at startup.
 
-![](fig\p_bootmenu.png)
+![](fig/p_bootmenu.png)
 
 > ![notes](../common/notes.svg) Note: ARM systems support only GRUB verification; MIPS systems lack GRUB/background support.
 
@@ -849,7 +849,7 @@ Hardware-dependent visual enhancements.
 
 Personalize your desktop.
 
-![](fig/wallpaper.png)
+![](fig/Wallpaper.png)
 
 1. Right-click desktop > **Set Wallpaper**.
 2. Choose from **My Pictures**, **System Wallpapers**, or **Solid Colors**.
@@ -1052,7 +1052,7 @@ Add/remove layouts for character mapping.
 
 View/modify/customize system, window, and workspace shortcuts.
 
-![0shortcut](fig\shortcut.png)
+![0shortcut](fig/shortcut.png)
 
 **View Shortcuts**
 
@@ -1239,6 +1239,48 @@ Use fingerprints/face recognition for login/unlock/authorization (requires suppo
 3. Click **Agree and Start Recording** > scan face > **Done**.
 
 > ![notes](../common/notes.svg) Note: Up to 5 faces per account.
+
+**Security Key**
+
+A security key is a hardware authentication device. You can register a security key with the system and use it to log in to the system, unlock the screen, and authorize special operations, as an alternative to traditional account password authentication.
+
+**Register the Device**
+
+1. Go to **Control Center > Account > Login Methods**, and click **Security Key**.
+2. When prompted **Please insert the security key**, insert the security key device. The system will automatically identify the connected device.
+3. After successful identification, follow the prompt **Please verify the security key; touch or swipe the device** to complete verification on the security key device. If verification times out, click **Retry**, or unplug and reinsert the device.
+4. After verification passes:
+   - If the device has not been registered, the system prompts **An unregistered security key is detected. Add it to use for login authentication.** Click **Add Device** to register it.
+   - If the device has already been registered, the system goes directly to the security key management interface.
+5. Click **Add Device**, and follow the prompt **Please verify the security key; touch or swipe the device** to complete verification on the security key. After verification passes, the system registers the device and enters the management interface.
+
+
+**Manage the Device**
+**Set Security Key PIN**
+
+1. Go to the **Manage Security Key** interface, and click **Set** next to **Security Key PIN**.
+2. In the pop-up form, enter the **New PIN** and **Repeat PIN**.
+3. Click **Cancel** to exit the current form. The system prompts **An unregistered security key is detected**; you can click **Register** to register it again.
+4. Click **Confirm**, and the system verifies the information.
+
+
+**Change Security Key PIN**
+
+1. Go to the **Manage Security Key** interface, and click **Change** next to **Security Key PIN**.
+2. In the pop-up dialog, enter the **Old PIN**, **New PIN**, and **Repeat PIN**.
+3. Click **Cancel** to close the dialog and end the current operation.
+4. Click **Confirm**, and the system verifies the information.
+
+**Reset Security Key PIN**
+
+1. Go to the **Manage Security Key** interface, and click **Reset** next to **Reset Security Key**.
+2. In the confirmation dialog, click **Cancel** to close the dialog and end the current operation.
+3. Click **Next**, then follow the prompt **Please reinsert the security key** to reinsert the device.
+
+**Log In with the Security Key**
+
+1. After the security key is registered, click the security key icon on the login or lock screen to switch to security key authentication.
+2. When prompted **Please insert the security key**, insert the security key device.
 
 #### Delete Account
 
