@@ -76,7 +76,7 @@ Access display settings quickly via the desktop right-click menu.
 1. Right-click desktop.
 2. Click **Display Settings** to open Control Center’s display settings.
 
-> ![notes](../common/notes.svg) Note: See [Display Settings](p_dde.md#Display) for details.
+> ![notes](../common/notes.svg) Note: See [Display Settings](#Display) for details.
 
 ### Clipboard
 
@@ -437,7 +437,7 @@ In Extend mode, when multiple displays are arranged in a rectangular layout, you
 
 Optimize input/output devices (speakers, microphones).
 
-![0sound](fig\sound.png)
+![0sound](fig/sound.png)
 
 ##### Output Settings
 
@@ -457,7 +457,7 @@ Optimize input/output devices (speakers, microphones).
    - Enable **Noise Suppression**.
    - Select input device.
 
-> ![tips](..\common\tips.svg) Tip: Test microphone at normal volume; avoid distor.
+> ![tips](../common/tips.svg) Tip: Test microphone at normal volume; avoid distor.
 
 ##### System Sounds
 
@@ -465,7 +465,7 @@ Optimize input/output devices (speakers, microphones).
 2. Click **System Sounds**.
 3. Toggle event sounds (e.g., login, logout).
 
-> ![ ](..\common\tips.svg) Tip: You can click the play button to preview sounds.
+> ![ ](../common/tips.svg) Tip: You can click the play button to preview sounds.
 
 ##### Device Management
 
@@ -477,7 +477,7 @@ Optimize input/output devices (speakers, microphones).
 
 Configure "Do Not Disturb" mode and app-specific notifications.
 
-![0sound](fig\notification.png)
+![0sound](fig/notification.png)
 
 ##### System Notifications
 
@@ -500,7 +500,7 @@ Customize per-app alerts.
 
 Set time zoshijine, sync automatically, or configure manually.
 
-![](fig\time.png)
+![](fig/time.png)
 
 ##### Modify Time/Date
 
@@ -512,7 +512,7 @@ Set time zoshijine, sync automatically, or configure manually.
 
 4. Click **OK**.
 
-> ![notes](..\common\notes.svg) Note: Re-enable **Auto Sync** to use NTP servers.
+> ![notes](../common/notes.svg) Note: Re-enable **Auto Sync** to use NTP servers.
 
 ##### Change Time Zone
 
@@ -538,7 +538,7 @@ View multiple time zones.
 
 Add/switch system languages and regional formats.
 
-![](fig\language.png)
+![](fig/language.png)
 
 ##### Add System Language
 
@@ -810,7 +810,7 @@ Hardware-dependent visual enhancements.
 
 Personalize your desktop.
 
-![](fig/wallpaper.png)
+![](fig/Wallpaper.png)
 
 1. Right-click desktop > **Set Wallpaper**.
 2. Choose from **My Pictures**, **System Wallpapers**, or **Solid Colors**.
@@ -825,7 +825,7 @@ Personalize your desktop.
 
 Protect privacy during inactivity.
 
-![1|screensaver](fig/screensaver.png)
+![1|screensaver](fig/Screensaver.png)
 
 1. Go to **Control Center > Personalization > Screensaver**.
 2. Choose **Picture Slideshow** or **System Screensavers**.
