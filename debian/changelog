@@ -1,3 +1,9 @@
+dde-manual-content (3.0.15) unstable; urgency=medium
+
+  * docs(dde): add brazilian portuguese manual
+
+ -- Kun Zhang <zhangkun2@uniontech.com>  Tue, 27 Oct 2026 21:25:54 +0800
+
 dde-manual-content (3.0.14) unstable; urgency=medium
 
   * docs(dde): add security key login guide
